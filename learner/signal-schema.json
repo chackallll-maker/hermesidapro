@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Crypto Signal Record",
+  "description": "Registro individual de una señal emitida por el sistema de análisis cripto",
+  "type": "object",
+  "required": [
+    "id",
+    "crypto",
+    "timestamp",
+    "signal_type",
+    "direction",
+    "prediction",
+    "price_at_signal",
+    "confidence",
+    "rationale",
+    "horizon_hours",
+    "resolve_by"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "UUID único de la señal (UUID v4)",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "crypto": {
+      "type": "string",
+      "enum": [
+        "XRP",
+        "XLM",
+        "HBAR"
+      ],
+      "description": "Criptomoneda a la que aplica la señal"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Cuándo se emitió la señal (UTC, ISO 8601)"
+    },
+    "signal_type": {
+      "type": "string",
+      "description": "Categoría de la señal (ver registry.md taxonomía)",
+      "examples": [
+        "rsi_overbought_reversal",
+        "macd_bullish_cross",
+        "news_positive_impact",
+        "support_breakdown",
+        "support_retest",
+        "support_hold_continuation",
+        "consolidation_range",
+        "resistance_rejection",
+        "breakout_confirmation",
+        "momentum_decay"
+      ]
+    },
+    "direction": {
+      "type": "string",
+      "enum": [
+        "ALCISTA",
+        "BAJISTA",
+        "NEUTRO"
+      ],
+      "description": "Dirección de mercado predicha"
+    },
+    "prediction": {
+      "type": "string",
+      "description": "Descripción concreta de lo que se predijo"
+    },
+    "price_at_signal": {
+      "type": "number",
+      "description": "Precio del activo en USD cuando se emitió la señal"
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "ALTO",
+        "MEDIO",
+        "BAJO"
+      ],
+      "description": "Nivel de confianza declarado por el bot al emitir"
+    },
+    "rationale": {
+      "type": "string",
+      "description": "Por qué se emitió esta señal (indicadores, noticia, patrón detectado)"
+    },
+    "market_regime": {
+      "type": "string",
+      "description": "Régimen de mercado al emitir (ej. 'alta_volatilidad', 'lateral', 'noticias_Ripple', 'tendencia_alcista')"
+    },
+    "horizon_hours": {
+      "type": "integer",
+      "description": "Cuántas horas esperar para medir el resultado"
+    },
+    "resolve_by": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp UTC cuando debe medirse el outcome"
+    },
+    "resolved": {
+      "type": "boolean",
+      "description": "Si la señal ya fue resuelta"
+    },
+    "outcome": {
+      "type": "string",
+      "enum": [
+        "acierto",
+        "error",
+        "neutral",
+        "pendiente",
+        "anulada"
+      ],
+      "description": "Resultado de la señal (llenado al resolver)"
+    },
+    "price_at_resolution": {
+      "type": "number",
+      "description": "Precio al momento de la resolución"
+    },
+    "price_change_pct": {
+      "type": "number",
+      "description": "Cambio % desde precio de señal hasta resolución"
+    },
+    "outcome_detail": {
+      "type": "string",
+      "description": "Descripción del resultado real"
+    },
+    "accuracy_note": {
+      "type": "string",
+      "description": "Nota adicional: si acertó por casualidad, error por evento inesperado, etc."
+    }
+  }
+}

@@ -1,0 +1,3401 @@
+[
+ {
+  "run_id": "2026-09-24T04:49:46Z",
+  "timestamp": "2026-09-24T04:49:46Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.51,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": -6.77,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.203397,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": -6.96,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09125,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": -6.91,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-24T19:21:57Z",
+  "timestamp": "2026-09-24T19:21:57Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.41,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 1.89,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.19744,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 2.78,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.085839,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 6.9,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10,
+    "near_miss_distancia": 3.1
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo. HBAR +6.90% 24h — near-miss positivo, a 3.10% del umbral de alarma."
+ },
+ {
+  "run_id": "2026-09-24T23:58:48.272813Z",
+  "timestamp": "2026-09-24T23:58:48.272813Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.53,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 2.111493055701308,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.215968,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 6.8188135730112,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.093063,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 2.923428092257725,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-24T22:32:06Z",
+  "timestamp": "2026-09-24T22:32:06Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.54,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 2.87,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2184,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 8.72,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10,
+    "near_miss_distancia": 1.28
+   },
+   "HBAR": {
+    "precio": 0.0931,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 3.64,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "XLM +8.72% 24h — near-miss positivo (faltan 1.28% para alerta)"
+ },
+ {
+  "run_id": "2026-09-25T02:44:22Z",
+  "timestamp": "2026-09-25T02:44:22Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.53,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 1.22,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.219289,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 7.59,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10,
+    "near_miss_distancia": 2.41
+   },
+   "HBAR": {
+    "precio": 0.092296,
+    "cambio_1h_pct": null,
+    "cambio_24h_pct": 0.75,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "Sin movimiento significativo. XLM +7.59% 24h — near-miss positivo, a 2.41% del umbral de alarma."
+ },
+ {
+  "run_id": "2026-09-28T03:25:49Z",
+  "timestamp": "2026-09-28T03:25:49Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4965,
+    "cambio_1h_pct": -0.1,
+    "cambio_24h_pct": -0.01,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2133,
+    "cambio_1h_pct": -0.93,
+    "cambio_24h_pct": -0.01,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09505,
+    "cambio_1h_pct": 0.04,
+    "cambio_24h_pct": 0.02,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "Sin movimiento significativo. Las tres cripto dentro de rangos estrechos: XRP -0.10% 1h / -0.01% 24h, XLM -0.93% 1h / -0.01% 24h, HBAR +0.04% 1h / +0.02% 24h. Ningun near-miss (todos por debajo del 3% en 1h y 7% en 24h). Datos MEXC /ticker/24hr + Binance klines 1h."
+ },
+ {
+  "run_id": "2026-09-28T03:56:39Z",
+  "timestamp": "2026-09-28T03:56:39Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4946,
+    "cambio_1h_pct": -0.14,
+    "cambio_24h_pct": -1.39,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2107,
+    "cambio_1h_pct": -1.63,
+    "cambio_24h_pct": -1.67,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.09566,
+    "cambio_1h_pct": 0.59,
+    "cambio_24h_pct": 2.59,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-28T04:27:59Z",
+  "timestamp": "2026-09-28T04:27:59Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4985,
+    "cambio_1h_pct": 0.375,
+    "cambio_24h_pct": -1.02,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2119,
+    "cambio_1h_pct": 0.665,
+    "cambio_24h_pct": -0.98,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09642,
+    "cambio_1h_pct": 1.282,
+    "cambio_24h_pct": 3.56,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-28T04:59:47Z",
+  "timestamp": "2026-09-28T04:59:47Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4967,
+    "cambio_1h_pct": 0.24,
+    "cambio_24h_pct": -0.72,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2116,
+    "cambio_1h_pct": 0.43,
+    "cambio_24h_pct": -0.7,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09606,
+    "cambio_1h_pct": 0.87,
+    "cambio_24h_pct": 3.72,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-28T05:30:00Z",
+  "timestamp": "2026-09-28T05:30:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4802,
+    "cambio_1h_pct": -1.11,
+    "cambio_24h_pct": -2.18,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2094,
+    "cambio_1h_pct": -1.09,
+    "cambio_24h_pct": -2.19,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.09549,
+    "cambio_1h_pct": -0.81,
+    "cambio_24h_pct": 2.57,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "aadc8673-8f48-44ef-a9c6-77facd7fe8b1",
+  "timestamp": "2026-09-28T06:01:54Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.483,
+    "cambio_1h_pct": -0.07,
+    "cambio_24h_pct": -2.38,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2097,
+    "cambio_1h_pct": -0.05,
+    "cambio_24h_pct": -2.78,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.09726,
+    "cambio_1h_pct": 0.2,
+    "cambio_24h_pct": 3.66,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo — max 24h HBAR +3.66%, 1h todos <0.3%"
+ },
+ {
+  "run_id": "2026-09-28T06:32:16Z",
+  "timestamp": "2026-09-28T06:32:16Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4815,
+    "cambio_1h_pct": -0.14,
+    "cambio_24h_pct": -2.69,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2089,
+    "cambio_1h_pct": -0.24,
+    "cambio_24h_pct": -3.82,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09698,
+    "cambio_1h_pct": -0.16,
+    "cambio_24h_pct": 3.21,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-28T07:03:18Z",
+  "timestamp": "2026-09-28T07:03:18Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4875,
+    "cambio_1h_pct": 0.47,
+    "cambio_24h_pct": -2.33,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2097,
+    "cambio_1h_pct": 0.43,
+    "cambio_24h_pct": -3.58,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09876,
+    "cambio_1h_pct": 1.27,
+    "cambio_24h_pct": 4.53,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-28T07:34:58Z",
+  "timestamp": "2026-09-28T07:34:58Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4714,
+    "cambio_1h_pct": -0.51,
+    "cambio_24h_pct": -3.67,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2077,
+    "cambio_1h_pct": -0.57,
+    "cambio_24h_pct": -4.68,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09756,
+    "cambio_1h_pct": 0.06,
+    "cambio_24h_pct": 2.68,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo; 1h plano (-0.5%), 24h dentro de umbral. CoinGecko valida MEXC (<0.3% dif)."
+ },
+ {
+  "run_id": "2026-09-28T08:05:28Z",
+  "timestamp": "2026-09-28T08:05:28Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4777,
+    "cambio_1h_pct": 0.381,
+    "cambio_24h_pct": -3.95,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2079,
+    "cambio_1h_pct": 0.241,
+    "cambio_24h_pct": -5.28,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.09734,
+    "cambio_1h_pct": 0.578,
+    "cambio_24h_pct": 1.61,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo; 1h max +0.58%, 24h entre -5.28% y +1.61%",
+  "notas": "MEXC 24h: -3.95% / -5.28% / +1.61% (fraccion verificada vs priceChange/prevClose); CoinGecko cross-check coincide (<0.5% diff). 1h derivado de Binance klines."
+ },
+ {
+  "run_id": "2026-09-28T08:37:23.696058+00:00",
+  "timestamp": "2026-09-28T08:37:23.696058+00:00",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4783,
+    "cambio_1h_pct": 0.46,
+    "cambio_24h_pct": -3.91,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.208,
+    "cambio_1h_pct": 0.34,
+    "cambio_24h_pct": -4.97,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.10234,
+    "cambio_1h_pct": 7.26,
+    "cambio_24h_pct": 7.05,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "1h_brusco",
+  "movimiento_detalle": "HBAR rompe $0.10 con +7.26% en 1h y volumen 5x; XRP/XLM consolidan tras caidas de -3.9%/-5.0% en 24h con RSI 1h sobrevendido (19.4 / 27.6)"
+ },
+ {
+  "run_id": "2026-09-28T06:08:23-03:00",
+  "timestamp": "2026-09-28T06:08:23Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4726,
+    "cambio_1h_pct": -0.51,
+    "cambio_24h_pct": -4.22,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2086,
+    "cambio_1h_pct": -0.48,
+    "cambio_24h_pct": -4.04,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11122,
+    "cambio_1h_pct": 2.95,
+    "cambio_24h_pct": 17.22,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +17.22% 24h (vol 24h $3.43M MEXC / $394.7M CoinGecko), maximo 24h $0.11418, RSI 1h 86.0 sobrecompra extrema"
+ },
+ {
+  "run_id": "2026-09-28T06:40:24-03:00",
+  "timestamp": "2026-09-28T09:40:24Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4778,
+    "cambio_1h_pct": -0.21,
+    "cambio_24h_pct": -3.71,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2105,
+    "cambio_1h_pct": 0.29,
+    "cambio_24h_pct": -3.35,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11165,
+    "cambio_1h_pct": 3.23,
+    "cambio_24h_pct": 17.59,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +17.59% 24h (fraccion 0.1758 verificada: 0.0167/0.09495), 1h +3.23% (decelerando vs +7.26% del run previo), maximo 24h $0.11500, minimo $0.09292, RSI(14) 1h 86.2 sobrecompra extrema, vol 24h CoinGecko $512.6M (+30% vs $394.7M en el run de 06:08). XRP -3.71% y XLM -3.35% 24h con RSI 1h 22.8 / 37.1 (XRP sobrevendido). Fear&Greed 74 Greed.",
+  "notas": "Sin nueva senal registrada: la senal 7d4d7499 (rsi_overbought_reversal, objetivo $0.105, stop $0.1145, resuelve 18:09Z) sigue vigente con la misma tesis; se actualiza estado en vez de duplicar. MEXC 24h derivado de priceChange/prevClose*100; CoinGecko cross-check <1% diff en las 3."
+ },
+ {
+  "run_id": "2026-09-28T07:12:25-03:00",
+  "timestamp": "2026-09-28T10:12:25Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4815,
+    "cambio_1h_pct": 0.15,
+    "cambio_24h_pct": -3.85,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2114,
+    "cambio_1h_pct": 0.14,
+    "cambio_24h_pct": -2.8,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1131,
+    "cambio_1h_pct": 0.76,
+    "cambio_24h_pct": 19.22,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +19.22% en 24h (CoinGecko +19.67% confirma). Impulso vertical en 2h: +11.39% y +3.98% con volumen 224M y 220M (8.2x el promedio horario). RSI 1h 86.96 / 4h 94.18 sobrecompra extrema. Ultima hora +0.55% con volumen 23.4M (contraccion 10x) = agotamiento. Cierra sobre trigger diario $0.10988. XRP -3.85% y XLM -2.80% en 24h, sin alerta."
+ },
+ {
+  "run_id": "2026-09-28T07:45:27-03:00",
+  "timestamp": "2026-09-28T10:45:27Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4903,
+    "cambio_1h_pct": 0.73,
+    "cambio_24h_pct": -2.99,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2139,
+    "cambio_1h_pct": 1.23,
+    "cambio_24h_pct": -1.56,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11519,
+    "cambio_1h_pct": 2.48,
+    "cambio_24h_pct": 21.55,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +21.55% 24h (MEXC), confirmado CoinGecko +21.85%. Rompe trigger diario $0.10988 y maximo 24h previo $0.11548 -> nuevo maximo $0.11519-0.11820. XRP -2.99% y XLM -1.56% 24h, sin alerta."
+ },
+ {
+  "run_id": "2026-09-28T08:18:28-03:00",
+  "timestamp": "2026-09-28T11:20:52Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4905,
+    "cambio_1h_pct": -0.04,
+    "cambio_24h_pct": -2.87,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2126,
+    "cambio_1h_pct": -0.05,
+    "cambio_24h_pct": -2.11,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1152,
+    "cambio_1h_pct": 0.09,
+    "cambio_24h_pct": 22.39,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +22.39% 24h (MEXC lastPrice 0.11519, priceChange 0.02055/prevClose 0.09464 verificado contra priceChangePercent fraccion 0.2171). CoinGecko confirma +22.06% a $0.11552 (diff 0.3%, sin discrepancia >3%). 1h +0.09% derivado de Binance klines: impulso de 08:00-10:00 UTC ya se agoto, vela 11:00 plana en maximo de 24h. RSI(14) 1h = 89.1 (extremo). XRP -2.87% y XLM -2.11% 24h, sin alerta y sin near-miss."
+ },
+ {
+  "run_id": "2026-09-28T11:53:59Z",
+  "timestamp": "2026-09-28T11:53:59Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.492,
+    "cambio_1h_pct": 0.21,
+    "cambio_24h_pct": -2.8,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2129,
+    "cambio_1h_pct": 0.33,
+    "cambio_24h_pct": -2.06,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11645,
+    "cambio_1h_pct": 1.61,
+    "cambio_24h_pct": 22.9,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +22.9% 24h: breakout confirmado del muro $0.10 con volumen 5.0x. RSI diario 79, Rechazo de $0.1195. Senal registrada cda58897 (consolidation_range, NEUTRAL, MEDIO, 10h)."
+ },
+ {
+  "run_id": "2026-09-28T12:27:42Z",
+  "timestamp": "2026-09-28T12:27:42Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5143,
+    "cambio_1h_pct": 1.31,
+    "cambio_24h_pct": -1.44,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2241,
+    "cambio_1h_pct": 5.32,
+    "cambio_24h_pct": 3.47,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1233,
+    "cambio_1h_pct": 4.99,
+    "cambio_24h_pct": 30.53,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "Doble alerta: HBAR +30.53% 24h (RSI 1h 93.3, breakout del muro $0.10, catalizador IBM/IDTrust+Hyperledger) y XLM +5.32% 1h (volumen 3.72x, catalizador BVNK/Mastercard). XRP plano +1.31% 1h / -1.44% 24h. F&G 74 (Greed)."
+ },
+ {
+  "run_id": "2026-09-28T13:00:01Z",
+  "timestamp": "2026-09-28T13:00:01Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5254,
+    "cambio_1h_pct": 2.11,
+    "cambio_24h_pct": -0.81,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2274,
+    "cambio_1h_pct": 6.78,
+    "cambio_24h_pct": 4.84,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1201,
+    "cambio_1h_pct": 2.17,
+    "cambio_24h_pct": 26.58,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": [
+   "HBAR",
+   "XLM"
+  ],
+  "tipo_alerta": {
+   "HBAR": "24h_grande",
+   "XLM": "1h_brusco"
+  },
+  "movimiento_detalle": "HBAR +26.58% 24h (rotura $0.10 por catalizador IBM/IDTrust, RSI 1h 92.6); XLM +6.78% 1h (empuje a maximo del dia, RSI 1h 68.1); XRP plano -0.81% 24h",
+  "notas": "Señales NO re-registradas: ya hay 2 señales pendientes de las 12:27Z (HBAR rsi_overbought_reversal @0.1233 y XLM breakout @0.2241) que cubren exactamente esta tesis. Re-registrar duplicaria el registro."
+ },
+ {
+  "run_id": "17753652-9c8c-4917-b00d-34801d8afb29",
+  "timestamp": "2026-09-28T13:31:25.706158Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5248,
+    "cambio_1h_pct": 0.08,
+    "cambio_24h_pct": -0.4,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2246,
+    "cambio_1h_pct": -0.84,
+    "cambio_24h_pct": 3.93,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11883,
+    "cambio_1h_pct": -0.43,
+    "cambio_24h_pct": 26.54,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +26.54% 24h (MEXC) / +25.30% (CoinGecko) = coincide, breakout sobre /usr/bin/bash.10 por IBM Cloud IDTrust; RSI 1h 90.3, precio /usr/bin/bash.1188 retrocediendo desde maximo /usr/bin/bash.125. XLM +3.93% 24h tras +8.35% 6h; XRP plano -0.40% 24h",
+  "notas": "Señales NO re-registradas: ya hay 2 señales pendientes del tick 12:27Z (HBAR rsi_overbought_reversal @0.1233 y XLM breakout @0.2241) que cubren exactamente esta tesis. Re-registrar duplicaria. HBAR bajo el precio de entrada de la senal (0.1188 < 0.1233) refuerza la tesis de reversion."
+ },
+ {
+  "run_id": "2026-09-28T14:05:06Z",
+  "timestamp": "2026-09-28T14:05:06Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5144,
+    "cambio_1h_pct": -0.29,
+    "cambio_24h_pct": -1.07,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2213,
+    "cambio_1h_pct": -0.4,
+    "cambio_24h_pct": 2.17,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1201,
+    "cambio_1h_pct": 0.17,
+    "cambio_24h_pct": 27.65,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +27.7% 24h (3 fuentes), 1h plano +0.17% = impulse en deceleration; RSI 92.2 sobrecompra extrema, $0.125 rechazado 3 veces"
+ },
+ {
+  "run_id": "2026-09-28T14:36:37.855935+00:00",
+  "timestamp": "2026-09-28T14:36:37.855935+00:00",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4964,
+    "cambio_1h_pct": -1.35,
+    "cambio_24h_pct": -1.81,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2182,
+    "cambio_1h_pct": -1.79,
+    "cambio_24h_pct": 1.2,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11817,
+    "cambio_1h_pct": -1.29,
+    "cambio_24h_pct": 26.02,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +26% 24h por listing de IDTrust en IBM Cloud Catalog; RSI 87 sobrecomprado, MAIN plana en 1h"
+ },
+ {
+  "run_id": "2026-09-28T15:08:00+00:00",
+  "timestamp": "2026-09-28T15:08:00+00:00",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4831,
+    "cambio_1h_pct": -0.09,
+    "cambio_24h_pct": -2.12,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2164,
+    "cambio_1h_pct": -0.32,
+    "cambio_24h_pct": 1.07,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11738,
+    "cambio_1h_pct": -1.37,
+    "cambio_24h_pct": 25.85,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +25.9% 24h (CoinGecko +26.6% cross-check); RSI 1h=81.3 baja desde 87, precio retrocede -4.8% desde maximo intradia $0.1233 hacia $0.1174; $0.125 rechazado por 3ra vez. Sin nueva senal registrada: 3 senales bajistas identicas (12:27, 14:05, 14:36 UTC) siguen pendientes - evitar duplicacion."
+ },
+ {
+  "run_id": "2026-09-28T15:41:45.830054+00:00",
+  "timestamp": "2026-09-28T15:41:45.830054Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4955,
+    "cambio_1h_pct": 0.65,
+    "cambio_24h_pct": -1.25,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.219,
+    "cambio_1h_pct": 0.97,
+    "cambio_24h_pct": 2.24,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12198,
+    "cambio_1h_pct": 3.15,
+    "cambio_24h_pct": 30.95,
+    "alerta": true,
+    "near_miss": true,
+    "near_miss_tipo": "1h_cerca_alerta",
+    "near_miss_cerca_de": 5.0,
+    "near_miss_distancia": 1.85
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +30.95% 24h (Binance derivado +30.55%, CoinGecko +30.36% - triple coincidencia); 1h +3.15% (near-miss, sigue acelerando); RSI 1h=66.1; high 24h $0.125 rechazado 4ta vez, precio $0.12198; Fear&Greed 74 (Greed). Sin nueva senal registrada: 3 senales bajistas identicas (12:27, 14:05, 14:36 UTC) siguen pendientes - evitar duplicacion."
+ },
+ {
+  "run_id": "2026-09-28T16:13:44.705977+00:00",
+  "timestamp": "2026-09-28T16:13:44Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4964,
+    "cambio_1h_pct": 0.07,
+    "cambio_24h_pct": -1.57,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2237,
+    "cambio_1h_pct": 1.31,
+    "cambio_24h_pct": 3.61,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12462,
+    "cambio_1h_pct": -0.64,
+    "cambio_24h_pct": 32.92,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +32.9% 24h (MEXC priceChange/prevClose 0.03087/0.09375; Binance derivado +33.59%; CoinGecko +34.47% - triple coincidencia). Precio MEXC $0.12462 vs CoinGecko $0.126013 (1.1% diff, OK). 1h -0.64% (consolidacion bajo maximo). RSI(14) 1h=85.2 sobrecomprado; MACD 1h positivo (+0.00763) pero achatado. High 24h $0.12787 rechazado por 5ta vez; low 24h $0.09292. Vol 24h $9.0M MEXC / $1.17B CoinGecko. Catalizador: IBM Cloud Catalog lista IDTrust (Hashgraph Group, Silver Partner) + reportes de tokenizacion del ICS US Treasury MMF de BlackRock via Securitize (no confirmado oficialmente) + inclusion en watchlists de ETF. Fear&Greed 74 (Greed). Sin nueva senal registrada: 3 senales bajistas identicas (12:27, 14:05, 14:36 UTC) siguen pendientes."
+ },
+ {
+  "run_id": "2026-09-28T16:45:00Z",
+  "timestamp": "2026-09-28T16:45:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.502,
+    "cambio_1h_pct": 0.44,
+    "cambio_24h_pct": -0.94,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2235,
+    "cambio_1h_pct": 1.54,
+    "cambio_24h_pct": 3.86,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.12761,
+    "cambio_1h_pct": 1.3,
+    "cambio_24h_pct": 36.68,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +36.7% 24h (0.0934->0.1276), maximo 24h en 0.1287 MEXC/0.12867 Binance, Catalanizador IBM Cloud Catalog IDTrust (23-sep) + adopcion enterprise/ETF inflows. RSI(14) 1h=92.5 sobrecomprado extremo. 1h +1.30% (sin aceleracion). Fear&Greed 74 (Greed). CoinGecko 0.12737 (+36.42%) confirma MEXC. Senal bajista f44f7475 (14:36 UTC, entry 0.11876) sigue PENDIENTE y el precio subio 7.5% contra ella; resolve_by 2026-09-29T02:36Z. No se registro nueva senal para evitar duplicar la serie bajista pendiente."
+ },
+ {
+  "run_id": "2026-09-28T17:18:11.579698+00:00",
+  "timestamp": "2026-09-28T17:18:11.579698+00:00",
+  "criptos": {
+   "XRP": {
+    "precio": 1.517,
+    "cambio_1h_pct": 1.14,
+    "cambio_24h_pct": -0.5,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2266,
+    "cambio_1h_pct": 0.44,
+    "cambio_24h_pct": 4.86,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12733,
+    "cambio_1h_pct": 0.74,
+    "cambio_24h_pct": 35.46,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +35.5% en 24h, extendsion vertical, RSI(1h)=92.5 sobrecomprado extremo"
+ },
+ {
+  "run_id": "2026-09-28T17:50:22.130988Z",
+  "timestamp": "2026-09-28T17:50:22.130988Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5059,
+    "cambio_1h_pct": 0.51,
+    "cambio_24h_pct": -1.21,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2253,
+    "cambio_1h_pct": 0.0,
+    "cambio_24h_pct": 4.35,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.13021,
+    "cambio_1h_pct": 2.84,
+    "cambio_24h_pct": 38.29,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +38.3% 24h por alianza IBM Cloud + watchlists ETF. RSI(14) 1h=88.8 sobrecomprado extremo, maximo 200h en 0.13004. Catalizador confirmado por Google News RSS."
+ },
+ {
+  "run_id": "2026-09-28T18:20:45Z",
+  "timestamp": "2026-09-28T18:20:45Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5113,
+    "cambio_1h_pct": 0.27,
+    "cambio_24h_pct": -1.13,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2318,
+    "cambio_1h_pct": 2.61,
+    "cambio_24h_pct": 6.83,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.12833,
+    "cambio_1h_pct": -1.24,
+    "cambio_24h_pct": 35.79,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +35.79% en 24h (breakout sobre /usr/bin/bash.12 por catalizadores enterprise/AI), RSI 1h 84.1 sobrecompra extrema; senal de pullback ya registrada 176d9096"
+ },
+ {
+  "run_id": "2026-09-28T18:53:47Z",
+  "timestamp": "2026-09-28T18:53:47Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.514,
+    "cambio_1h_pct": 0.46,
+    "cambio_24h_pct": -1.52,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2313,
+    "cambio_1h_pct": 2.17,
+    "cambio_24h_pct": 6.44,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12763,
+    "cambio_1h_pct": -1.72,
+    "cambio_24h_pct": 34.61,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +34.6% 24h (RSI14 1h=82.4, breakout 0.1135 banda superior Bollinger, catalizador post NVIDIA Open Agent Security Platform con miembros del Council). 1h -1.72% = primer pullback tras la subida.",
+  "nota_senal": "NO se registro senal nueva: ya existen 3 senales rsi_overbought_reversal BAJISTA pendientes identicas (14:36Z, 17:18Z, 17:50Z). Evitar duplicacion."
+ },
+ {
+  "run_id": "2026-09-28T19:27:20.983640Z",
+  "timestamp": "2026-09-28T19:27:20.983640Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.495,
+    "cambio_1h_pct": -1.16,
+    "cambio_24h_pct": -2.41,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2287,
+    "cambio_1h_pct": -1.04,
+    "cambio_24h_pct": 5.69,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.12719,
+    "cambio_1h_pct": -0.46,
+    "cambio_24h_pct": 33.76,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +33.76% 24h (IDTrust en IBM Cloud Catalog + UK taskforce + ETF watchlists). RSI 1h=86 sobrecomprado extremo, volumen +718%, OI +80%. 1h -0.46% muestra pausa post-bombazo."
+ },
+ {
+  "run_id": "2026-09-28T19:59:04.927243Z",
+  "timestamp": "2026-09-28T19:59:04.927243Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4884,
+    "cambio_1h_pct": -1.61,
+    "cambio_24h_pct": -2.89,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2273,
+    "cambio_1h_pct": -1.56,
+    "cambio_24h_pct": 5.08,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12209,
+    "cambio_1h_pct": -4.32,
+    "cambio_24h_pct": 28.73,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +28.73% en 24h, maximo 24h $0.12984, retrocediendo -4.32% en la ultima hora desde el pico"
+ },
+ {
+  "run_id": "2026-09-28T20:31:32Z",
+  "timestamp": "2026-09-28T20:31:32Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.492,
+    "cambio_1h_pct": 0.53,
+    "cambio_24h_pct": -2.4,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2289,
+    "cambio_1h_pct": 0.79,
+    "cambio_24h_pct": 5.87,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.1203,
+    "cambio_1h_pct": -1.46,
+    "cambio_24h_pct": 27.07,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +27.07% 24h (MEXC) / +26.83% (Binance derivado) / +26.93% (CoinGecko) - tres fuentes coinciden, dato no cache. Precio $0.1203 desde maximo 24h $0.13096 (-8.1%). Catalizador: IDTrust validado por IBM en IBM Cloud Catalog (23-sep) + UK Digital Markets Taskforce (24-sep) + watchlists de ETF."
+ },
+ {
+  "run_id": "2026-09-28T21:04:44Z",
+  "timestamp": "2026-09-28T21:04:44Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4996,
+    "cambio_1h_pct": 0.34,
+    "cambio_24h_pct": -1.56,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.23,
+    "cambio_1h_pct": 0.44,
+    "cambio_24h_pct": 6.48,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.12322,
+    "cambio_1h_pct": 0.25,
+    "cambio_24h_pct": 30.26,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +30.26% 24h (MXEC), consolidation NEUTRAL pendiente 3683b4d2 tracking correcto: banda 0.1150-0.1240, precio 0.12329 en techo de banda"
+ },
+ {
+  "run_id": "2026-09-28T21:36:01Z",
+  "timestamp": "2026-09-28T21:36:01Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4941,
+    "cambio_1h_pct": -0.07,
+    "cambio_24h_pct": -1.92,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2273,
+    "cambio_1h_pct": -0.83,
+    "cambio_24h_pct": 4.7,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12484,
+    "cambio_1h_pct": 1.67,
+    "cambio_24h_pct": 31.66,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +31.66% en 24h (MEXC y CoinGecko coinciden), rebote +1.67% en 1h testeando techo de banda $0.1240 tras consolidacion; RSI14 1h=79.0, MACD positivo"
+ },
+ {
+  "run_id": "2026-09-28T22:10:38Z",
+  "timestamp": "2026-09-28T22:10:38Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4799,
+    "cambio_1h_pct": -0.32,
+    "cambio_24h_pct": -2.14,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.224,
+    "cambio_1h_pct": -0.13,
+    "cambio_24h_pct": 4.18,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.1216,
+    "cambio_1h_pct": 0.83,
+    "cambio_24h_pct": 29.43,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +29.43% en 24h (MEXC), maximo diario $0.13096, minimo $0.09360; 1h solo +0.83% -- la mayor parte del movimiento ya ocurrio. CoinGecko cross-check: +29.82%, precio $0.122131 (discrepancia <1%)"
+ },
+ {
+  "run_id": "2026-09-28T22:42:33Z",
+  "timestamp": "2026-09-28T22:42:33Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4933,
+    "cambio_1h_pct": 0.44,
+    "cambio_24h_pct": -1.04,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2249,
+    "cambio_1h_pct": -0.22,
+    "cambio_24h_pct": 4.84,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12374,
+    "cambio_1h_pct": 1.64,
+    "cambio_24h_pct": 31.62,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +31.62% 24h (MEXC priceChange 0.02973/prevClosePrice 0.09401), +31.75% CoinGecko, +31.23% derivado de Binance klines 26h = tres fuentes coinciden. 1h solo +1.64%: el impulso ya ocurrio, ahora consolidacion. Maximo 24h $0.13085, minimo $0.09365. XRP -1.04% y XLM +4.84% 24h, ambos bajo umbral."
+ },
+ {
+  "run_id": "2026-09-28T23:17:08Z",
+  "timestamp": "2026-09-28T23:17:08Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4929,
+    "cambio_1h_pct": -0.08,
+    "cambio_24h_pct": -1.06,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2256,
+    "cambio_1h_pct": 0.22,
+    "cambio_24h_pct": 5.17,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.12172,
+    "cambio_1h_pct": -0.76,
+    "cambio_24h_pct": 28.8,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +28.80% en 24h (MEXC), confirmado por CoinGecko +28.50%. El test del techo de banda $0.1298-$0.1309 previsto a las 22:42Z NO se cumplio: el precio roto y fue al piso de banda $0.1215."
+ },
+ {
+  "run_id": "2026-09-28T23:48:01Z",
+  "timestamp": "2026-09-28T23:48:01Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4971,
+    "cambio_1h_pct": 0.22,
+    "cambio_24h_pct": -1.1,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2316,
+    "cambio_1h_pct": 2.8,
+    "cambio_24h_pct": 7.62,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 2.4
+   },
+   "HBAR": {
+    "precio": 0.12132,
+    "cambio_1h_pct": -0.94,
+    "cambio_24h_pct": 26.63,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +26.6% en 24h (rallazgo IBM/IDTrust + post NVIDIA + ETF watchlists), pero sin aceleracion: -0.9% en 1h, consolidando $0.1215-$0.1309. XLM +7.6% 24h, near-miss de umbral 10%."
+ },
+ {
+  "run_id": "2026-09-29T00:23:41Z",
+  "timestamp": "2026-09-29T00:23:41Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4958,
+    "cambio_1h_pct": -0.13,
+    "cambio_24h_pct": -1.99,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2307,
+    "cambio_1h_pct": -0.77,
+    "cambio_24h_pct": 6.31,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 3.7
+   },
+   "HBAR": {
+    "precio": 0.1209,
+    "cambio_1h_pct": -1.19,
+    "cambio_24h_pct": 25.44,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +25.4% 24h por listado IBM Cloud; retrocede 7.6% desde maximo con volumen 1h -68%"
+ },
+ {
+  "run_id": "2026-09-29T00:54:04Z",
+  "timestamp": "2026-09-29T00:54:04Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4914,
+    "cambio_1h_pct": -0.37,
+    "cambio_24h_pct": -2.06,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2291,
+    "cambio_1h_pct": -1.29,
+    "cambio_24h_pct": 4.75,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.12088,
+    "cambio_1h_pct": -0.92,
+    "cambio_24h_pct": 24.9,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +24.9% 24h (MEXC) / +25.6% (Binance) / +24.7% (CoinGecko) = triple fuente, no es cache. Catalizadores: IDTrust en IBM Cloud Catalog, post Hedera Council en Open Agent Safety Platform de NVIDIA, watchlists ETF. Precio 7.6% bajo el maximo 24h $0.13096, vol 1h 0.59x promedio 6h, RSI(14) 1h 64.3 enfriandose."
+ },
+ {
+  "run_id": "2026-09-29T01:27:56Z",
+  "timestamp": "2026-09-29T01:27:56Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4778,
+    "cambio_1h_pct": -0.87,
+    "cambio_24h_pct": -2.58,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2262,
+    "cambio_1h_pct": -1.01,
+    "cambio_24h_pct": 3.24,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11919,
+    "cambio_1h_pct": -1.23,
+    "cambio_24h_pct": 22.74,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +22.74% en 24h (subida explosiva, con sesion girando a la baja); CoinGecko cross-check +22.90% (coincide). XRP -2.58% y XLM +3.24% sin alerta."
+ },
+ {
+  "run_id": "2026-09-29T02:01:00Z",
+  "timestamp": "2026-09-29T02:01:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4763,
+    "cambio_1h_pct": -0.79,
+    "cambio_24h_pct": -1.9,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2269,
+    "cambio_1h_pct": -0.44,
+    "cambio_24h_pct": 5.19,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11961,
+    "cambio_1h_pct": -0.64,
+    "cambio_24h_pct": 24.03,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +24.03% 24h (MEXC) / +24.21% (CoinGecko) / 1h -0.64%. RSI(14) 1h 64.0 (enfriandose desde 93.3). Precio -8.7% desde maximo 24h $0.13096, 5 maximos decrecientes, volumen 1h 0.51x promedio. Piso de banda $0.1180 a 1.3%."
+ },
+ {
+  "run_id": "2026-09-29T02:34:07Z",
+  "timestamp": "2026-09-29T02:34:07Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4712,
+    "cambio_1h_pct": -0.49,
+    "cambio_24h_pct": -2.15,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2239,
+    "cambio_1h_pct": -1.54,
+    "cambio_24h_pct": 4.24,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11777,
+    "cambio_1h_pct": -1.68,
+    "cambio_24h_pct": 22.66,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +22.66% 24h (MEXC) / +22.59% (CoinGecko) / +23.98% derivado Binance klines; 1h -1.68%. Precio -10.1% desde el maximo 24h $0.13096, 5 maximos decrecientes, MACD 1h bajo la senal (hist -0.0012), RSI(14) 1h 60.2. Volumen 1h $18.4M = 0.25x el promedio 24h. Catalizador: listado en IBM Cloud (28-sep)."
+ },
+ {
+  "run_id": "2026-09-29T03:06:00Z",
+  "timestamp": "2026-09-29T03:06:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.477,
+    "cambio_1h_pct": 0.09,
+    "cambio_24h_pct": -1.55,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2249,
+    "cambio_1h_pct": 0.18,
+    "cambio_24h_pct": 4.79,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 5.21
+   },
+   "HBAR": {
+    "precio": 0.11734,
+    "cambio_1h_pct": -0.52,
+    "cambio_24h_pct": 23.64,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +23.64% 24h (MEXC) / +24.08% (CoinGecko) / +23.46% derivado Binance klines; 1h -0.52%. Precio -10.3% desde el maximo 24h $0.13096. 5 maximos 1h decrecientes consecutivos (0.12293>0.12289>0.12187>0.12053>0.11858), MACD 1h bajo la senal (hist -0.00145vs -0.00123 previo, ampliandose), RSI(14) 1h 61.8. Volumen hora completa previa $4.07M = 0.47x el promedio 24h. Fear & Greed 73 (Greed). XLM 24h +4.79% (Binance derivado +7.03%) = near-miss, a 5.21 del umbral. Catalizador: rally post listado IBM Cloud (28-sep) con exhaustion tecnica en curso."
+ },
+ {
+  "run_id": "2026-09-29T03:38:12Z",
+  "timestamp": "2026-09-29T03:38:12Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.491,
+    "cambio_1h_pct": 1.0,
+    "cambio_24h_pct": -0.12,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2266,
+    "cambio_1h_pct": 0.76,
+    "cambio_24h_pct": 7.55,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 2.45
+   },
+   "HBAR": {
+    "precio": 0.11881,
+    "cambio_1h_pct": 0.59,
+    "cambio_24h_pct": 24.93,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +24.9% 24h por Hedera Council en plataforma de seguridad IA de NVIDIA + IDTrust en IBM Cloud; consolidacion de $0.13096 a $0.11881 con RSI 1h en sobreventa extrema"
+ },
+ {
+  "run_id": "2026-09-29T04:11:11Z",
+  "timestamp": "2026-09-29T04:11:11Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4843,
+    "cambio_1h_pct": -0.3,
+    "cambio_24h_pct": -0.36,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2268,
+    "cambio_1h_pct": 0.22,
+    "cambio_24h_pct": 7.89,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 2.1
+   },
+   "HBAR": {
+    "precio": 0.1181,
+    "cambio_1h_pct": 0.03,
+    "cambio_24h_pct": 24.22,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +24.22% 24h (pico $0.13085), movim 1h plano +0.03% = consolidacion post-blowoff. XLM +7.89% (near-miss). XRP plano -0.36%."
+ },
+ {
+  "run_id": "2026-09-29T04:44:36Z",
+  "timestamp": "2026-09-29T04:44:36Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4866,
+    "cambio_1h_pct": -0.21,
+    "cambio_24h_pct": -0.65,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2254,
+    "cambio_1h_pct": -0.71,
+    "cambio_24h_pct": 6.47,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 3.53
+   },
+   "HBAR": {
+    "precio": 0.1208,
+    "cambio_1h_pct": 1.66,
+    "cambio_24h_pct": 25.42,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +25.4% 24h por catalizador Nvidia Open Agent Safety Platform + IDTrust IBM Cloud; RSI diario 81 sobrecompra, MACD 1h cruzando a la baja"
+ },
+ {
+  "run_id": "2026-09-29T05:16:38Z",
+  "timestamp": "2026-09-29T05:16:38Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4885,
+    "cambio_1h_pct": 0.19,
+    "cambio_24h_pct": 0.1,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2253,
+    "cambio_1h_pct": -0.18,
+    "cambio_24h_pct": 7.3,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 2.7
+   },
+   "HBAR": {
+    "precio": 0.1183,
+    "cambio_1h_pct": -1.96,
+    "cambio_24h_pct": 23.96,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +23.96% en 24h (CoinGecko cross-check +24.51%), maximo $0.13096 y rejection a $0.1183; RSI diario 79.6 sobrecompra extrema, MACD 1h cruzando a la baja. Catalizadores: Nvidia Open Agent Safety Platform e IDTrust en IBM Cloud Catalog. XLM +7.3% (near-miss), XRP plano."
+ },
+ {
+  "run_id": "20260929T054950Z",
+  "timestamp": "2026-09-29T05:49:50Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.486,
+    "cambio_1h_pct": -0.03,
+    "cambio_24h_pct": 0.15,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null,
+    "volumen_24h_usd": 59186520.83
+   },
+   "XLM": {
+    "precio": 0.2237,
+    "cambio_1h_pct": -0.84,
+    "cambio_24h_pct": 6.47,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null,
+    "volumen_24h_usd": 3001991.08
+   },
+   "HBAR": {
+    "precio": 0.11896,
+    "cambio_1h_pct": -1.21,
+    "cambio_24h_pct": 23.15,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null,
+    "volumen_24h_usd": 12066412.84
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +23.15% 24h (2do dia seguido >20%). 1h -1.21%: rejection confirmado del maximo $0.13096 con 6 velas de maximos decrecientes y precio bajo MA7 ($0.11979) y MA20 ($0.12141). Catalizadores enterprise ya descontados (Nvidia Open Agent Safety Platform, IDTrust en IBM Cloud). XLM +6.47% 24h en rango sin alerta. XRP plano.",
+  "senal_registrada": false,
+  "senal_motivo_no_registro": "3 senales HBAR rsi_overbought_reversal BAJISTA ya pendientes (0978efa2, 69b565b3, 2277a3a3) con la misma tesis y niveles objetivo. Registrar una 4ta seria duplicar el mismo escenario. Perfil HBAR: rsi_overbought_reversal 33% precision (2/6) -> no sumar ruido."
+ },
+ {
+  "run_id": "2026-09-29T06:20:19Z",
+  "timestamp": "2026-09-29T06:20:19Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5002,
+    "cambio_1h_pct": 0.39,
+    "cambio_24h_pct": 1.07,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2254,
+    "cambio_1h_pct": 0.09,
+    "cambio_24h_pct": 7.53,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 2.5
+   },
+   "HBAR": {
+    "precio": 0.11826,
+    "cambio_1h_pct": -0.81,
+    "cambio_24h_pct": 21.37,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR +21.37% en 24h por Nvidia Open Agent Safety + IDTrust en IBM Cloud; rejection en $0.13096 y consolidacion sobre $0.1155. XLM +7.53% (near-miss). XRP plano."
+ },
+ {
+  "run_id": "2026-09-29T06:52:21Z",
+  "timestamp": "2026-09-29T06:52:21Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5043,
+    "cambio_1h_pct": 0.75,
+    "cambio_24h_pct": 1.72,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2271,
+    "cambio_1h_pct": 0.93,
+    "cambio_24h_pct": 8.71,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 1.3
+   },
+   "HBAR": {
+    "precio": 0.11836,
+    "cambio_1h_pct": -0.9,
+    "cambio_24h_pct": 22.12,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "Sin novedad vs run 06:20Z: HBAR +22.12% 24h (mismo movimiento, precio plano /usr/bin/bash.11826->/usr/bin/bash.11836, 1h -0.90%, RSI 33.6, rechazo en /usr/bin/bash.13096). Alerta ya entregada al usuario; no se reenvia para evitar duplicado. XLM +8.71% (near-miss, se acerca a 10%). XRP plano. CoinGecko 403 en este tick (solo MEXC+Binance)."
+ },
+ {
+  "run_id": "ce7c6ba5-5bf7-4de8-ba7f-33c63d30fd3b",
+  "timestamp": "2026-09-29T07:25:24Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5054,
+    "cambio_1h_pct": -0.07,
+    "cambio_24h_pct": 2.1,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.228,
+    "cambio_1h_pct": 0.04,
+    "cambio_24h_pct": 9.56,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 0.44
+   },
+   "HBAR": {
+    "precio": 0.11751,
+    "cambio_1h_pct": -0.12,
+    "cambio_24h_pct": 19.72,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "SIN NOVEDAD: HBAR +19.72% 24h es la misma vela ya alertada 3 veces (05:49Z, 06:20Z, 06:52Z). Precio 0.11836 -> 0.11751 (-0.7%) en ~33min, 1h -0.12%. Catalyst Nvidia Open Agent Safety Platform + IDTrust/IBM Cloud ya comunicado. 8h closes en rollover (0.12060 -> 0.11754) confirman agotamiento post-bombazo pero no cruzan umbral nuevo. ALERTA SUPRIMIDA -> [SILENT] por duplicada. XLM +9.56% 24h = near-miss a 0.44pp del umbral. CoinGecko 403 en este tick (solo MEXC+Binance). No se registro signal nueva: evita duplicar senal_rsi_overbought_reversal ya cubierta en runs previos."
+ },
+ {
+  "run_id": "9e2fe65b-6708-41b4-803c-215d281e3a84",
+  "timestamp": "2026-09-29T08:00:25Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5085,
+    "cambio_1h_pct": 0.14,
+    "cambio_24h_pct": 2.2,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.23,
+    "cambio_1h_pct": 0.79,
+    "cambio_24h_pct": 10.68,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.117,
+    "cambio_1h_pct": -0.67,
+    "cambio_24h_pct": 19.6,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": [
+   "XLM",
+   "HBAR"
+  ],
+  "tipo_alerta": [
+   "24h_grande",
+   "24h_grande"
+  ],
+  "movimiento_detalle": "XLM +10.7% 24h (rallie institucional, record 217.4 TPS, BVNK/U.S. Bank, CME); HBAR +19.6% 24h (watchlists ETF) pero -10.6% desde el maximo de $0.13085 con RSI diario 74.2. XRP plano.",
+  "notas": "CoinGecko devolvio 403 (CloudFront) en este run; validacion cruzada no disponible. Datos primarios MEXC/Binance via curl, sanity check con segunda llamada MEXC coherente."
+ },
+ {
+  "run_id": "2026-09-29T08:34:49Z",
+  "timestamp": "2026-09-29T08:34:49Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5043,
+    "cambio_1h_pct": -0.24,
+    "cambio_24h_pct": 1.72,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2298,
+    "cambio_1h_pct": -0.26,
+    "cambio_24h_pct": 10.48,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1174,
+    "cambio_1h_pct": 0.51,
+    "cambio_24h_pct": 20.31,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": [
+   "XLM",
+   "HBAR"
+  ],
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "Duplicado: umbrales 24h siguen activos (~31min despues). Sin movimiento 1h nuevo (XRP -0.24%, XLM -0.26%, HBAR +0.51%). HBAR -10.2% desde maximo $0.13085 -> $0.1174; XLM -2.1% desde $0.2347. Enfriamiento posterior al pico, sin catalizador nuevo. Enviado [SILENT] para no spamear Telegram.",
+  "nota": "alerta_generada=true por umbral, pero suprimida por ser repeticion de la alerta de las 04:57 ARG (senales ya registradas a las 05:02).",
+  "validacion_precios": "MEXC 24hr + Binance 24hr coinciden (<0.1%). CoinGecko 403 CloudFront -> no usado."
+ },
+ {
+  "run_id": "2026-09-29T09:06:43Z",
+  "timestamp": "2026-09-29T09:06:43Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5027,
+    "cambio_1h_pct": 0.03,
+    "cambio_24h_pct": 1.91,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2291,
+    "cambio_1h_pct": 0.0,
+    "cambio_24h_pct": 9.93,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 0.07
+   },
+   "HBAR": {
+    "precio": 0.11805,
+    "cambio_1h_pct": -0.12,
+    "cambio_24h_pct": 8.41,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 1.59
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "Enfriamiento post-pico. 1h plano en las tres: XRP +0.03%, XLM 0.00%, HBAR -0.12% (vela 1h cerrada previa: XRP -0.47%, XLM -0.56%, HBAR +1.10%). 24h bajo umbral: XRP +1.91%, XLM +9.93% (near-miss a 0.07pp del umbral), HBAR +8.41%. Sin movimiento >5% 1h ni >10% 24h -> [SILENT]. Nota: el 24h de HBAR bajo de +20.31% (08:34Z) a +8.41% por rollover de la ventana de 24h de MEXC (la referencia 08:34Z era 0.0976, ahora 0.10889), no por caida de precio (0.1174 -> 0.11805). Fear & Greed = 73 (Greed).",
+  "nota": "Sin alerta. XLM y HBAR quedan como near-miss 24h; no se registro senal de aprendizaje (no hay prediccion direccional nueva).",
+  "validacion_precios": "MEXC /ticker/24hr (priceChangePercent viene como fraccion: derivado de priceChange/prevClosePrice). Binance /ticker/24hr de control: XRP +1.79%, XLM +9.94%, HBAR +7.40% — coincide con MEXC dentro de ~1%. Binance klines 1h OK. CoinGecko 403 CloudFront -> no usado. Fear & Greed OK."
+ },
+ {
+  "run_id": "2026-09-29T07:08:30-03:00",
+  "timestamp": "2026-09-29T10:08:30Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.509,
+    "cambio_1h_pct": -0.12,
+    "cambio_24h_pct": 1.68,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2305,
+    "cambio_1h_pct": -0.35,
+    "cambio_24h_pct": 9.13,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 0.9
+   },
+   "HBAR": {
+    "precio": 0.11807,
+    "cambio_1h_pct": -0.24,
+    "cambio_24h_pct": 3.74,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo; XLM cerca del umbral 24h (+9.13% vs 10%)",
+  "notas": "CoinGecko devolvio 403 (CloudFront). Datos de MEXC /ticker/24hr via curl. priceChangePercent verificado como fraccion (priceChange/prevClosePrice coincide)."
+ },
+ {
+  "run_id": "2026-09-29T07:39:31-03:00",
+  "timestamp": "2026-09-29T10:39:31Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5034,
+    "cambio_1h_pct": -0.52,
+    "cambio_24h_pct": 0.68,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2291,
+    "cambio_1h_pct": -1.08,
+    "cambio_24h_pct": 7.26,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 2.7
+   },
+   "HBAR": {
+    "precio": 0.11719,
+    "cambio_1h_pct": -0.85,
+    "cambio_24h_pct": 1.58,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo; XLM cerca de umbral 24h (+7.26% vs 10%)"
+ },
+ {
+  "run_id": "2026-09-29T11:12:21Z",
+  "timestamp": "2026-09-29T11:12:21Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5071,
+    "cambio_1h_pct": -0.07,
+    "cambio_24h_pct": 1.32,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.23,
+    "cambio_1h_pct": 0.26,
+    "cambio_24h_pct": 8.49,
+    "alerta": false,
+    "near_miss": true,
+    "near_miss_tipo": "24h_cerca_alerta_positiva",
+    "near_miss_cerca_de": 10.0,
+    "near_miss_distancia": 1.5
+   },
+   "HBAR": {
+    "precio": 0.1179,
+    "cambio_1h_pct": 0.8,
+    "cambio_24h_pct": 1.62,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "XLM +8.49% 24h, cerca del umbral de alerta (+10%); resto sin movimiento. CoinGecko 403 en este run (validacion cruzada no disponible)."
+ },
+ {
+  "run_id": "2026-09-29T11:44:46Z",
+  "timestamp": "2026-09-29T11:44:46Z",
+  "hora_arg": "2026-09-29 08:44:46 ARG",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5116,
+    "cambio_1h_pct": 0.21,
+    "cambio_24h_pct": 1.15,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2353,
+    "cambio_1h_pct": 2.26,
+    "cambio_24h_pct": 10.42,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11877,
+    "cambio_1h_pct": 1.24,
+    "cambio_24h_pct": 0.56,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "XLM",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "XLM +10.42% en 24h, rally por catalogo de adopcion institucional en Stellar (RWA ~$4B, Tradable $1B, ONU, Bermuda, US Bank)",
+  "nota_fuentes": "MEXC (/ticker/24hr) + Binance klines 1h via curl. CoinGecko 403 CloudFront en este run (no se pudo cross-validar). Discrepancia MEXC vs Binance <=0.2%."
+ },
+ {
+  "run_id": "2026-09-29T12:16:53Z",
+  "timestamp": "2026-09-29T12:16:53Z",
+  "hora_arg": "2026-09-29 09:16:53 ARG",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5195,
+    "cambio_1h_pct": 0.12,
+    "cambio_24h_pct": -0.32,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.234,
+    "cambio_1h_pct": 0.3,
+    "cambio_24h_pct": 3.44,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1188,
+    "cambio_1h_pct": 0.2,
+    "cambio_24h_pct": -0.46,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-29T12:49:08Z",
+  "timestamp": "2026-09-29T12:49:08Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5529,
+    "cambio_1h_pct": 2.26,
+    "cambio_24h_pct": 2.33,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.233,
+    "cambio_1h_pct": -0.04,
+    "cambio_24h_pct": 1.26,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11457,
+    "cambio_1h_pct": -3.62,
+    "cambio_24h_pct": -5.79,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2f82039a-02cb-479b-b9ed-420fa28d87af",
+  "timestamp": "2026-09-29T13:51:45Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5494,
+    "cambio_1h_pct": 0.14,
+    "cambio_24h_pct": 1.81,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2316,
+    "cambio_1h_pct": -0.17,
+    "cambio_24h_pct": 3.9,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11313,
+    "cambio_1h_pct": -0.71,
+    "cambio_24h_pct": -5.92,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo"
+ },
+ {
+  "run_id": "2026-09-29T14:24:17.296746+00:00",
+  "timestamp": "2026-09-29T14:24:17Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5521,
+    "cambio_1h_pct": 0.18,
+    "cambio_24h_pct": 2.97,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2315,
+    "cambio_1h_pct": -0.47,
+    "cambio_24h_pct": 5.32,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1137,
+    "cambio_1h_pct": 0.47,
+    "cambio_24h_pct": -5.35,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo",
+  "nota": "CoinGecko 403 (CloudFront) en este run; validacion cruzada no disponible. Datos MEXC/Binance via curl."
+ },
+ {
+  "run_id": "2026-09-29T14:55:22Z",
+  "timestamp": "2026-09-29T14:55:22Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5501,
+    "cambio_1h_pct": 0.06,
+    "cambio_24h_pct": 4.38,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2317,
+    "cambio_1h_pct": -0.43,
+    "cambio_24h_pct": 6.97,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11386,
+    "cambio_1h_pct": 0.66,
+    "cambio_24h_pct": -3.5,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo",
+  "nota": "CoinGecko 403 (CloudFront) en este run; validacion cruzada no disponible. Datos MEXC/Binance via curl."
+ },
+ {
+  "run_id": "2026-09-29T15:28:32Z",
+  "timestamp": "2026-09-29T15:28:32Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5162,
+    "cambio_1h_pct": -2.09,
+    "cambio_24h_pct": 1.84,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2266,
+    "cambio_1h_pct": -1.78,
+    "cambio_24h_pct": 5.19,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11267,
+    "cambio_1h_pct": -1.34,
+    "cambio_24h_pct": -4.07,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": false,
+  "cripto_en_alerta": null,
+  "tipo_alerta": null,
+  "movimiento_detalle": "sin movimiento significativo",
+  "nota": "CoinGecko 403 (CloudFront) en este run: validacion cruzada no disponible. MEXC /ticker/24hr + Binance /ticker/24hr coincidieron (-4.07% / -4.77% HBAR 24h). El derivado 24h de klines Binance daba -10.26% porque ancla en el cierre de la vela 15:00 UTC del 28-sep (spike a 0.12561) en vez del precio rodante 24h (0.11799). Se usa la medicion rodante de exchange (regla de fuente primaria)."
+ },
+ {
+  "run_id": "2026-09-29T16:02:02Z",
+  "timestamp": "2026-09-29T16:02:02Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5176,
+    "cambio_1h_pct": 0.06,
+    "cambio_24h_pct": 1.58,
+    "cambio_24h_pct_binance_crosscheck": 1.586,
+    "rsi14_1h": 53.4,
+    "soporte_6h": 1.505,
+    "resistencia_6h": 1.5617,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2263,
+    "cambio_1h_pct": 0.13,
+    "cambio_24h_pct": 2.63,
+    "cambio_24h_pct_binance_crosscheck": 2.905,
+    "rsi14_1h": 51.3,
+    "soporte_6h": 0.2252,
+    "resistencia_6h": 0.2371,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.11233,
+    "cambio_1h_pct": 0.03,
+    "cambio_24h_pct": -10.78,
+    "cambio_24h_pct_binance_crosscheck": -10.409,
+    "rsi14_1h": 31.6,
+    "soporte_6h": 0.11174,
+    "resistencia_6h": 0.1198,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -10.77% 24h (ticker rodante MEXC, cross-check Binance -10.41%) por reversion post-rally +30% del 28-sep; precio en soporte 0.1117, 1h plano +0.03%",
+  "nota": "CoinGecko via curl devolvio 403 CloudFront -- sin validacion cruzada de CG. MEXC y Binance coinciden en 24h (HBAR -10.77% / -10.41%): alerta robusta, no artefacto de klines. Derivado de klines 1h -11.16% vs ticker rodante -10.77% (delta 0.4pp, tolerable -- gana el ticker). Causa: sell-the-news tras rally +30% del 28-sep por anuncio NVIDIA Open Agent Security Platform; RSI diario llego a 81. Senal rsi_overbought_reversal del 29-sep 05:16Z sigue pendiente y en curso: NO se duplica.",
+  "fear_greed": {
+   "value": 73,
+   "classification": "Greed"
+  },
+  "fuentes": {
+   "primaria": "MEXC /ticker/24hr (curl)",
+   "validacion_cruzada": "Binance /ticker/24hr (curl)",
+   "1h_rsi_macd": "Binance klines 1h limit=26 (curl)",
+   "coingecko": "FALLO 403"
+  }
+ },
+ {
+  "run_id": "2026-09-29T16:35:01Z",
+  "timestamp": "2026-09-29T16:35:01Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5079,
+    "cambio_1h_pct": -0.71,
+    "cambio_24h_pct": -0.23,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2254,
+    "cambio_1h_pct": -0.35,
+    "cambio_24h_pct": -0.22,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.11098,
+    "cambio_1h_pct": -1.25,
+    "cambio_24h_pct": -12.64,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -12.64% 24h (MEXC ticker, verificado priceChange/prevClose=0.12641). Cross-check Binance ticker -12.81% — consistente. Klines-derivado 24h -12.29% (NO usado, regla klines-vs-ticker). CoinGecko 403 bloqueado, validacion cruzada vía Binance. 1h -1.25% (no dispara umbral 1h).",
+  "nota": "Discrepancia klines vs ticker menor al 3% (-12.29% vs -12.64%), ambos cruzan el umbral -10%: la alerta es solida por las dos fuentes. Sin discrepancia que trazar."
+ },
+ {
+  "run_id": "2026-09-29T17:06:02Z",
+  "timestamp": "2026-09-29T17:06:02Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4882,
+    "cambio_1h_pct": 0.17,
+    "cambio_24h_pct": -0.36,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2237,
+    "cambio_1h_pct": 0.31,
+    "cambio_24h_pct": -0.18,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.1064,
+    "cambio_1h_pct": 1.04,
+    "cambio_24h_pct": -14.77,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -14.77% 24h (MEXC ticker, priceChange/prevClose=-0.01843/0.12483). Cross-check Binance ticker -15.05% — consistente, alerta solida. Klines-derivado 24h -17.95% (difiere >3% del ticker; gana el ticker segun regla, pero ambos cruzan el umbral -10%, la alerta se sostiene igual). 1h +1.04% (no dispara umbral 1h).",
+  "nota": "DISCREPANCIA TRAZADA: klines 1h derivado -17.95% vs ticker rolling -14.77% (delta 3.18%). El ticker manda; la diferencia viene del anclaje en el cierre de vela 15:00 UTC del 28-sep. CoinGecko 403 (CloudFront block) — validacion cruzada hecha via Binance ticker en su lugar. Previo run 16:35Z tenia HBAR -12.64%; la caida se profundizo 2.1 puntos en ~28min."
+ },
+ {
+  "run_id": "2026-09-29T17:39:37Z",
+  "timestamp": "2026-09-29T17:39:37Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.483,
+    "cambio_1h_pct": -0.12,
+    "cambio_24h_pct": -1.58,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2213,
+    "cambio_1h_pct": -0.81,
+    "cambio_24h_pct": -1.82,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.10538,
+    "cambio_1h_pct": -0.07,
+    "cambio_24h_pct": -18.25,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -18.25% 24h (MEXC priceChange/prevClose = -0.02353/0.12891 = -0.18253) cross-check Binance -18.43%: coincide, no discrepancia. 1h -0.07% (plano, sinliquidacion). Derivado de klines 1h -18.85% vs ticker -18.25%: diferencia 0.6pp, bajo el corte de 3pp, no hay riesgo de alerta falsa. Causa: desinflacion del pico parabólico de ayer (+30% a $0.13096 por IDTrust en IBM Cloud + rumor BlackRock tokenizacion, RSI diario ~81) -> toma de ganancia. RSI(14) 1h 23.2 en sobreventa profunda, MACD -0.00396 bajo senal, precio bajo SMA7 $0.11186, volumen 1.05x (normal, no de liquidacion agresiva). PERFIL HBAR nivel 2: rsi_oversold_rebound no tiene historico suficiente, rsi_overbought_reversal 43% precision -> confianza MEDIO, no ALTO. NO se registro senal nueva: ya hay una senal rsi_oversold_rebound ALCISTA pendiente de las 2026-09-29T17:06:02Z (entrada $0.1064, objetivo $0.112-0.115) que cubre exactamente esta hipotesis; duplicarla contaminaria la precision historica."
+ },
+ {
+  "run_id": "2026-09-29T18:14:28Z",
+  "timestamp": "2026-09-29T18:14:28Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4882,
+    "cambio_1h_pct": 0.46,
+    "cambio_24h_pct": -1.43,
+    "cambio_24h_pct_binance_crosscheck": -1.528,
+    "rsi14_1h": 51.1,
+    "soporte_24h": 1.4661,
+    "resistencia_24h": 1.5611,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2211,
+    "cambio_1h_pct": 0.14,
+    "cambio_24h_pct": -3.57,
+    "cambio_24h_pct_binance_crosscheck": -3.828,
+    "rsi14_1h": 42.4,
+    "soporte_24h": 0.2199,
+    "resistencia_24h": 0.2369,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.1044,
+    "cambio_1h_pct": 0.3,
+    "cambio_24h_pct": -20.13,
+    "cambio_24h_pct_binance_crosscheck": -20.046,
+    "rsi14_1h": 17.2,
+    "soporte_24h": 0.09938,
+    "resistencia_24h": 0.13041,
+    "minimo_5m_verificado": 0.09938,
+    "volumen_vela_flush_16h_vs_media": 2.4,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -20.13% 24h (ticker MEXC rolling) / -18.38% derivado de klines 1h: coinciden dentro de 1.75 puntos, sin discrepancia. Flash move de -6.07% en la vela 16:00 UTC con volumen 2.4x la media. CoinGecko NO pudo usarse como tercer cross-check: HTTP 403 CloudFront 'Request blocked' en este run. Nota: el 24h derivado de klines se Uso solo como validacion; la decision la tomo el ticker rolling."
+ },
+ {
+  "run_id": "2026-09-29T18:46:58Z",
+  "timestamp": "2026-09-29T18:46:58Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4994,
+    "cambio_1h_pct": 1.16,
+    "cambio_24h_pct": -0.55,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2231,
+    "cambio_1h_pct": 0.95,
+    "cambio_24h_pct": -2.96,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.10567,
+    "cambio_1h_pct": 1.76,
+    "cambio_24h_pct": -16.11,
+    "cambio_24h_pct_binance_crosscheck": -16.57,
+    "cambio_24h_pct_klines_derivado": -17.19,
+    "rsi14_1h": 21.2,
+    "soporte_24h": 0.09938,
+    "resistencia_24h": 0.12911,
+    "vol_1h_ultima": 1825169,
+    "vol_1h_media20": 4109804,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -16.11% 24h (ticker MEXC, crosscheck Binance -16.57%, klines -17.19% - las tres fuentes coinciden, alerta genuina). Retracement post-bombazo +30% del 28-sep por noticia NVIDIA/BlackRock (max $0.12576). RSI 1h 21.2 sobrevendido, rebote +1.76% en 1h desde minimo $0.09938. Volumen en decremento (45% de la media 20 velas).",
+  "nota": "CoinGecko devolvio 403 en este tick (keyless Firecrawl/CloudFront bloqueado) -> validacion cruzada hecha solo con Binance /ticker/24hr, que coincide con MEXC (<0.5pp). MACD no calculable con 26 velas (histograma degenera a 0) -> no se reporta cruce. 23 senales HBAR pendientes sin resolver."
+ },
+ {
+  "run_id": "2026-09-29T19:17:58Z",
+  "timestamp": "2026-09-29T19:17:58Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.5006,
+    "cambio_1h_pct": 0.1,
+    "cambio_24h_pct": 0.38,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2233,
+    "cambio_1h_pct": 0.31,
+    "cambio_24h_pct": -2.57,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.105,
+    "cambio_1h_pct": 0.37,
+    "cambio_24h_pct": -17.61,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -17.61% 24h (ticker rolling MEXC, verificado priceChange/prevClosePrice=0.02245/0.12745). RSI(14) 1h=22.0 sobrevendido, rebote +0.37% 1h desde minimo 24h $0.09938. Volumen 1h en deceleration vs media 20 velas. CoinGecko 403 CloudFront este tick -> validacion cruzada no disponible, se opero con MEXC+Binance unicamente.",
+  "nota": "NO se registro senal nueva: ya existe senal pendiente identica 428087a9-80d8-4a26-91dd-f32beab77074 (rsi_oversold_rebound, ALCISTA, $0.10567, 6h, resolve_by 2026-09-30T00:46:58Z) del run 18:46 UTC. Registrar de nuevo seria duplicar la misma hipotesis. Discrepancia kline-24h derivado (-13.54%) vs ticker rolling (-17.61%) = 4.07 pts, gana el ticker por regla de skill. Fear&Greed 73 (Greed)."
+ },
+ {
+  "run_id": "2026-09-29T19:50:00Z",
+  "timestamp": "2026-09-29T19:50:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4937,
+    "cambio_1h_pct": -0.35,
+    "cambio_24h_pct": 0.46,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2222,
+    "cambio_1h_pct": -0.22,
+    "cambio_24h_pct": -1.98,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.10416,
+    "cambio_1h_pct": -0.58,
+    "cambio_24h_pct": -16.93,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -16.93% 24h (ticker rolling MEXC: priceChange -0.02123 / prevClose 0.12539; verificacion cruzada Binance -16.09% OK). RSI(14) 1h=20.3 sobreventa profunda, pero la vela actual cierra -0.58% con volumen 1.90M = 0.47x la media de 20 velas: el rebote se apaga, no hay confirmacion. Precio de lado a lado en $0.1037-0.1054 tras capitulacion de $0.09938. CoinGecko 403 CloudFront este tick -> validacion cruzada via Binance unicamente.",
+  "nota": "NO se registro senal nueva: siguen pendientes 4 senalesALCISTA identicas de rebote en HBAR (18:14, 18:46 UTC y anteriores) y ninguna se resolvio; ademas el precio cayo de $0.10567 a $0.10416 (-1.4%) en 30 min, es decir la hipotesis de rebote se esta debilitando. Registrar una quinta identica seria duplicar. Discrepancia kline-24h derivado (-14.36%) vs ticker rolling (-16.93%) = 2.57 pts, bajo el margen de 3% pero gana el ticker por regla de skill. Fear&Greed 73 (Greed)."
+ },
+ {
+  "run_id": "2026-09-29T20:27:00Z",
+  "timestamp": "2026-09-29T20:27:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4991,
+    "cambio_1h_pct": 0.41,
+    "cambio_24h_pct": 0.59,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "fuente_24h": "MEXC ticker rolling (priceChange/prevClose = 0.0059 fraccion); Binance +0.335% OK"
+   },
+   "XLM": {
+    "precio": 0.2229,
+    "cambio_1h_pct": 1.04,
+    "cambio_24h_pct": -2.66,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "fuente_24h": "MEXC ticker rolling (priceChange/prevClose = -0.0266 fraccion); Binance -2.745% OK"
+   },
+   "HBAR": {
+    "precio": 0.10407,
+    "cambio_1h_pct": 0.02,
+    "cambio_24h_pct": -13.23,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "fuente_24h": "MEXC ticker rolling (priceChange -0.01588 / prevClose 0.11995 = -0.1323 fraccion = -13.23%); validacion cruzada Binance -13.777% (dif 0.55 pts, OK)"
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -13.23% 24h (MEXC rolling) / -13.78% (Binance). 1h +0.02% plano: la caida ocurrio entre las 16:00 y las 20:00 UTC (vela 16:00 -6.08%, minimo 24h $0.09938 MEXC / $0.10307 Binance). RSI(14) 1h = 32.0 (minimo 30 hace 3h), MACD hist negativo pero encogiendo (-0.002055 -> -0.001903), volumen 1h = 0.26x la media de 10 velas: secuencia vendedora agotandose. Discrepancia kline-24h derivado (-15.21%) vs ticker rolling (-13.23%) = 1.98 pts, bajo el margen de 3% pero gana el ticker por regla de skill. CoinGecko 403 CloudFront este tick, validacion cruzada solo via Binance. Fear&Greed 73 (Greed). Contexto macro: BTC ~83K, US10y 5.25% (maximo desde 2007), Brent ~107, apuestas a mas subidas de tasas de la Fed.",
+  "nota": "NO se registro senal nueva. HBAR acumula 24 senales pendientes en signals-hbar.json y las 3 ultimas (2453ba0b, 18c69305, 428087a9) son la MISMA hipotesis ALCISTA de rebote tecnico desde la capitulacion; ninguna se resolvio todavia. Registrar una cuarta identica seria duplicar, tal como ya se decidio en el run de las 20:15 UTC. La prediccion expuesta en la alerta es la misma linea de hipotesis sin nuevo registro, queda anotada aca para trazabilidad. El job de aprendizaje (6h) debe resolver las pendientes."
+ },
+ {
+  "run_id": "2026-09-29T21:03:17Z",
+  "timestamp": "2026-09-29T21:03:17Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4986,
+    "cambio_1h_pct": 0.31,
+    "cambio_24h_pct": 0.23,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2237,
+    "cambio_1h_pct": 1.22,
+    "cambio_24h_pct": -2.4,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.10358,
+    "cambio_1h_pct": -0.34,
+    "cambio_24h_pct": -15.8,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -15.80% 24h (ticker rolling MEXC: priceChange -0.01954 / prevClose 0.12334 = -0.1584 -> x100 = -15.84%; crosscheck Binance /ticker/24hr = -15.802%, derivado de klines 1h = -15.77%,CoinGecko 403 CloudFront este tick). 1h -0.34% (Binance klines) -> no dispara umbral 1h. Es la 7ma alerta consecutiva por el mismo evento: reversion total del rally de noticias IBM Cloud IDTrust + Nvidia Open Agent Safety (pico $0.1306 -> $0.1036). DISCREPANCIA klines vs ticker < 0.1% en este tick, no aplica correccion. Sin cambio de umbral.",
+  "nota": "CoinGecko devolvio 403 (CloudFront 'Request blocked') -> validacion cruzada no disponible este tick; MEXC (primaria) + Binance (validacion) coincidieron dentro de 0.04 pp. nota: hay 24 senales HBAR pendientes en signals-hbar.json (4 rsi_oversold_rebound vivos del mismo crash); esta corrida registro consolidation_range para no duplicar la prediccion de rebote.",
+  "senal_registrada": "e06b0a3d-bf36-4029-a002-f1d0bc9a4d37"
+ },
+ {
+  "run_id": "30fe766d-4904-4067-8ee2-5e3cdbab50fc",
+  "timestamp": "2026-09-29T21:36:03Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4936,
+    "cambio_1h_pct": -0.23,
+    "cambio_24h_pct": 0.03,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2231,
+    "cambio_1h_pct": 0.0,
+    "cambio_24h_pct": -1.45,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.10355,
+    "cambio_1h_pct": 0.22,
+    "cambio_24h_pct": -16.43,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -16.4% 24h (MEXC ticker rolling) / -16.96% (Binance cross-check). Derivado de klines 1h dio -14.64% -> ambos por debajo de -10%, alerta robusta. Causa: reversion total del pump por noticia IBM (IDTrust en IBM Cloud Catalog, 23-sep) que llevo el token a $0.1306; ahora $0.1038 bajo MA7 0.10540 y MA25 0.11477. 1h +0.22% con volumen en 0.29x de la media 24h -> exhaustion de ventas. RSI(14) 1h 22.6 sobrevendido. CoinGecko no disponible (403 CloudFront) este tick.",
+  "nota": "NO se registro señal de aprendizaje pese a haber prediccion direccional: ya existen 5 senales rsi_oversold_rebound PENDIENTES del mismo evento (precios 0.11881, 0.11826, 0.1064, 0.10567, 0.1044) y 25 pendientes en total, 16 de ellas VENCIDAS sin resolver (resolve_by anterior a 2026-09-29T21:00Z). Registrar una 6ma senal del mismo evento contaminaria el dataset sin agregar informacion. ALERTA OPERATIVA: el pipeline de resolucion de senales esta roto o no corre - 16 senales vencidas de HBAR sin resolver desde las 06:00-14:00Z. Requiere revision."
+ },
+ {
+  "run_id": "dfa3bd48-b228-4751-9819-2f9c65d0f639",
+  "timestamp": "2026-09-29T22:10:00Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4954,
+    "cambio_1h_pct": 0.03,
+    "cambio_24h_pct": 1.1,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "XLM": {
+    "precio": 0.2241,
+    "cambio_1h_pct": 0.22,
+    "cambio_24h_pct": 0.0,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   },
+   "HBAR": {
+    "precio": 0.10338,
+    "cambio_1h_pct": 0.28,
+    "cambio_24h_pct": -15.32,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -15.32% 24h: reversion total del pump +30% del 28-sep, pierde $0.10 (soporte clave). CoinGecko 403 (CloudFront) - validado con MEXC + Binance ticker (-15.24%). 24h derivado de klines (-15.84%) coincide con ticker, sin discrepancia",
+  "nota": "Segunda alerta consecutiva del mismo movimiento (run previo 21:36Z reporto -16%). Senal registrada: RSI 1h sobrevendido, rebote esperado. Valor nuevo: cierre bajo $0.10 post-pump + RSI(1h)=23.5"
+ },
+ {
+  "run_id": "2026-09-29T22:42:28.137202Z",
+  "timestamp": "2026-09-29T22:42:28.137202Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4943,
+    "cambio_1h_pct": -0.1,
+    "cambio_24h_pct": 0.13,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2236,
+    "cambio_1h_pct": 0.13,
+    "cambio_24h_pct": -0.48,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.10315,
+    "cambio_1h_pct": 0.03,
+    "cambio_24h_pct": -16.67,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -16.67% 24h (MEXC), Binance ticker -16.62%, klines 1h derivadas -16.06%: las tres coinciden, sin discrepancia. Reversion del pump +22% por IDTrust en IBM Cloud Catalog; $570K liquidaciones long. Precio estabilizado en $0.1031 tras minimo $0.10244.",
+  "nota": "Tercera alerta consecutiva del mismo movimiento (runs previos -16% y -15.3%). El movimiento ya se frenó: 1h +0.03%, histograma MACD contraido por 2do tick consecutivo. Valor incremental: RSI(1h)=22.5 es el mas bajo del tramo y aparece divergencia de momento. CoinGecko 403 (CloudFront) 2do intento - validado con MEXC + Binance."
+ },
+ {
+  "run_id": "f1b95254-59e2-40b1-ac14-6072a291687e",
+  "timestamp": "2026-09-29T23:16:02Z",
+  "criptos": {
+   "XRP": {
+    "precio": 1.4977,
+    "cambio_1h_pct": 0.29,
+    "cambio_24h_pct": 0.27,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "XLM": {
+    "precio": 0.2243,
+    "cambio_1h_pct": 0.45,
+    "cambio_24h_pct": -0.58,
+    "alerta": false,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   },
+   "HBAR": {
+    "precio": 0.10354,
+    "cambio_1h_pct": 0.7,
+    "cambio_24h_pct": -14.94,
+    "alerta": true,
+    "near_miss": false,
+    "near_miss_tipo": null,
+    "near_miss_cerca_de": null,
+    "near_miss_distancia": null
+   }
+  },
+  "alerta_generada": true,
+  "cripto_en_alerta": "HBAR",
+  "tipo_alerta": "24h_grande",
+  "movimiento_detalle": "HBAR -14.94% 24h (MEXC) / -15.02% (Binance, cruzados); pico $0.13096 -> minimo $0.09938, capitulacion con volumen 8.5x; base en $0.1024-$0.1054 con volumen 0.14x del promedio",
+  "nota": "CoinGecko 403 (CloudFront) este tick - sin validacion cruzada. Klines-24h derivado (-15.08%) coincide con ticker (<0.5pt) -> sin discrepancia. Binance klines ok via curl (CoinGecko y MEXC klines 1h no disponibles)."
+ }
+]

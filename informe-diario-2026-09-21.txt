@@ -1,0 +1,62 @@
+📊 EQUIPO CRIPTO — Monitoreo XRP/XLM/HBAR [DIARIO 05:00 ARG]
+☀️ BUENOS DÍAS — Lunes 21 de septiembre de 2026 — 05:00 ARG [DIARIO]
+
+🤖 PROGRESO DEL BOT: ░░░░░░░░░░ 0/50 → Nivel 1: Bot Novato
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔴 / 🟡 / 🟢 SEMÁFORO — vistazo 5 seg
+━━━━━━━━━━━━━━━━━━━━━━━
+🔷 XRP  $1.44  (±4.4% 24h)  → 🟡 NEUTRAL
+   Soporte $1.37 → Resistencia $1.47
+🟦 XLM  $0.20  (±5.3% 24h)  → 🟢 ALCISTA
+   Soporte $0.18 → Resistencia $0.21
+⬢ HBAR $0.087  (±6.6% 24h)  → 🟢 ALCISTA
+   Soporte $0.075 → Resistencia $0.092
+Mercado: 🟢 Codicia 74/100 · BTC ~$81k
+
+⚠️ discrepancia detectada: Binance XRP/USDT muestra $1.33 (−7.7% vs CoinGecko $1.44). Usamos precio CoinGecko como fuente primaria.
+
+📌 Cómo viene el día: El mercado recupera con fuerza tras el shock del debate regulatorio: tras el fracaso del CLARITY Act, la acción regulatoria pasó a SEC/CFTC quienes avanzan sus propias reglas. El shock de tasas fue reabsorbido. HBAR lidera con milestone de 10M cuentas. XLM y XRP en sintonía alcista moderada.
+Vigilar: posible segunda suba de tasas en octubre (Goldman la ve venir); si el rally pierde impulso al abrir sesión Asia.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🗓️ AGENDA DE HOY
+━━━━━━━━━━━━━━━━━━━━━━━
+🏛️ Paradigma regulatorio: tras fracaso CLARITY Act (Senado 49-50 el 15/9), SEC y CFTC avanzan reglas propias. SEC: exemption 5 años para acciones tokenizadas, límite 75 símbolos (anuncio 17/9). CFTC: framework enviado a OMB el 17/9, sin fecha de votación.
+
+📊 Próximo movimiento Fed: Goldman forecast otro +25 bps en octubre. Dot Plot apunta a posible nuevo ajuste este año.
+
+🔓 HBAR: milestone 10M cuentas en mainnet — validación adopción enterprise que impulsa compra hoy.
+
+🏛️ House Ways & Means avanzó Digital Asset Tax Certainty Act (38-5) — refundación tax framework, necesita aprobación completa de ambas cámaras.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📊 TABLA RÁPIDA
+━━━━━━━━━━━━━━━━━━━━━━━
+XRP  $1.44  +4.4%  RSI ~57  → 🟡 NEUTRAL
+XLM  $0.20  +5.3%  RSI ~55  → 🟢 ALCISTA
+HBAR $0.087  +6.6%  RSI ~65  → 🟢 ALCISTA
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📈 DETALLE TÉCNICO
+━━━━━━━━━━━━━━━━━━━━━━━
+🔷 XRP: Rompe una semana negativa, pero pierde fuerza en $1.47 (Fib 50% de la subida previa y zona de distribución previa). Soporte $1.37 (20-DMA): si lo pierde se reabre el rango bajista $1.30-1.35. MACD diario en zona de cruce alcista previo; 4H sin divergencia bajista. Patrón: recuperación post-shock dentro de una estructura de lateral-alcista de mayor tiempo.
+🟦 XLM: Rompe resistencia $0.193 con impulsividad moderada (smart money acumulando según señal reciente del bot). Próximo objetivo $0.21 en caso de mantener el impulso; sin catalizador noticioso claro, el movimiento se sostiene por momentum técnico. Volumen moderado pero creciente.
+⬢ HBAR: El liderazgo lo pone el milestone de 10M cuentas — noticia fundamental que ha generado compra discreta. Rompió $0.0899 con volumen Binance de ~$317M (levemente por encima del promedio). Siguiente resistencia $0.092-0.095. Si se consolida sobre $0.089 se abre camino a la zona psicológica de $0.10.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🏗️ FUNDAMENTAL & SENTIMIENTO
+━━━━━━━━━━━━━━━━━━━━━━━
+• XRP: Marco regulatorio americano desplazado a agencias (SEC, CFTC). Ripple preparado para operar bajo múltiples regímenes. ETF inflows y asignación de Grayscale fueron catalizadores vinculados al ETF el pasado.
+• XLM: Sin noticias puntuales recientes; el movimiento deriva de dinámica técnica y probable acumulación institucional silenciosa.
+• HBAR: Milestone 10M cuentas — medición de adopción enterprise — junto con expansiones de consorcio (partners en ciberseguridad, software latino, trazabilidad).
+• Sentimiento: Fear & Greed 74/100 — Codicia. El mercado recupera de un shock de política monetaria + regulatorio (CLARITY Act dead + Fed hike 25bps) en menos de una semana. Narrativa: el mercado absorbió la suba de tasas como algo ya anticipado (fase "surprise=price") y la derrota legislativa movió acción a reguladores que avanzan rápido.
+
+No es asesoramiento financiero. DYOR. El semáforo es una guía visual — toma tus propias decisiones. Codicia 74/100.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+📈 RESUMEN DE SEÑALES
+━━━━━━━━━━━━━━━━━━━━━━━
+🔷 XRP: 0 pendientes, 1 resuelta (0✅ 1❌ 0🟡)
+🟦 XLM: 0 pendientes, 1 resuelta (0✅ 0❌ 1🟡)
+⬢ HBAR: 1 pendiente, 0 resuelta (0✅ 0❌ 0🟡)
