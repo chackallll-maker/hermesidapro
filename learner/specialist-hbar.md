@@ -41,20 +41,26 @@ HBAR (Hedera) es una cripto **enterprise-focused** con gobernanza por council (e
 ## Estadísticas por Tipo de Señal
 | Tipo de Señal | Aciertos / Total | Precisión | Notas |
 |---------------|------------------|-----------|-------|
-| consolidation_range | 0 / 1 | 0% |  |
-| macd_bearish_cross | 1 / 1 | 100% |  |
-| resistance_breakout | 1 / 2 | 50% |  |
-| rsi_overbought_reversal | 3 / 7 | 43% |  |
+| breakout_confirmation | 0 / 1 | 0% |  |
+| consolidation_range | 0 / 12 | 0% |  |
+| macd_bearish_cross | 3 / 3 | 100% |  |
+| momentum_decay | 1 / 1 | 100% |  |
+| resistance_breakout | 1 / 3 | 33% |  |
+| rsi_overbought_reversal | 13 / 18 | 72% |  |
+| rsi_oversold_rebound | 2 / 15 | 13% |  |
+| support_breakdown | 2 / 3 | 67% |  |
 | support_hold_continuation | 1 / 2 | 50% |  |
 
 ## Estadísticas por Nivel de Confianza (inicial — por confirmar)
 | Nivel de Confianza | Aciertos / Total | Precisión |
 |--------------------|------------------|-----------|
-| MEDIO | 6 / 13 | 46% |
+| ALTO | 1 / 1 | 100% |
+| BAJO | 3 / 13 | 23% |
+| MEDIO | 19 / 44 | 43% |
 
 ## Régimen de Mercado Actual
 
-Última actualización: 2026-09-29 19:01 UTC
+Última actualización: 2026-10-30 19:27 UTC
 
 ---
 

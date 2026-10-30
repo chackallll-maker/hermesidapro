@@ -151,10 +151,10 @@ for crypto in ["XRP", "XLM", "HBAR"]:
 ```\n📊 EQUIPO CRIPTO — Monitoreo XRP/XLM/HBAR [DIARIO 05:00 ARG]\n☀️ BUENOS DÍAS — [Día] [Fecha] — 05:00 ARG  [DIARIO]\n\n━━━━━━━━━━━━━━━━━━━━━━
 🔴 / 🟡 / 🟢 SEMÁFORO — vistazo 5 seg
 ━━━━━━━━━━━━━━━━━━━━━━
-🔷 XRP  $X.XX  (±X.X% 24h)  → 🟡 NEUTRAL
+🔷 XRP  $X.XX  (±X.X% 24h)  → 🟡 NEUTRAL  [✅/❌/🟡/↩️]
    Soporte $X.XX → Resistencia $X.XX
-🟦 XLM  $X.XX  (±X.X% 24h)  → 🟢 ALCISTA / 🟡 NEUTRAL / 🔴 ATENCIÓN
-⬢ HBAR $X.XX  (±X.X% 24h)  → 🟢 / 🟡 / 🔴
+🟦 XLM  $X.XX  (±X.X% 24h)  → 🟢 ALCISTA / 🟡 NEUTRAL / 🔴 ATENCIÓN  [✅/❌/🟡/↩️]
+⬢ HBAR $X.XX  (±X.X% 24h)  → 🟢 / 🟡 / 🔴  [✅/❌/🟡/↩️]
 Mercado: 🟢 Codicia XX/100 · BTC $XXk
 
 📌 Cómo viene el día: [2 líneas: tono del día, qué vigilar, si es día tranquilo o volátil]
@@ -169,30 +169,36 @@ Mercado: 🟢 Codicia XX/100 · BTC $XXk
 ━━━━━━━━━━━━━━━━━━━━━━
 📊 TABLA RÁPIDA
 ━━━━━━━━━━━━━━━━━━━━━━
-XRP  $X.XX  ±X%  RSI XX  → 🟡 NEUTRAL
-XLM  $X.XX  ±X%  RSI XX  → 🟡 NEUTRAL
-HBAR $X.XX  ±X%  RSI XX  → 🔴 PRECAUCIÓN
+XRP  $X.XX  ±X%  RSI XX  → 🟡 NEUTRAL  [✅/❌/🟡/↩️]
+XLM  $X.XX  ±X%  RSI XX  → 🟡 NEUTRAL  [✅/❌/🟡/↩️]
+HBAR $X.XX  ±X%  RSI XX  → 🔴 PRECAUCIÓN  [✅/❌/🟡/↩️]
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 📈 DETALLE TÉCNICO
 ━━━━━━━━━━━━━━━━━━━━━━━
 🔷 XRP: [2 líneas: tendencia, patrón, nivel clave]
 
-🎯 PREDICCIÓN DEL BOT — XRP:
+🎯 OPINIÓN DEL BOT — XRP:
    → [predicción clara y concreta si hay una, o "Sin predicción direccional registrada"]
    📏 Horizonte: [X] horas · Confianza: [ALTO/MEDIO/BAJO]
+   💡 Acción spot sugerida: [Tomar ganancias parciales / Acumular/DCA / Mantener / Cuidar capital]
+   📊 Estado señal vigente: [✅ ACERTÓ / ❌ SE EQUIVOCÓ / 🟡 PENDIENTE / ↩️ CERRADA NEUTRAL]
 
 🟦 XLM: [2 líneas]
 
-🎯 PREDICCIÓN DEL BOT — XLM:
+🎯 OPINIÓN DEL BOT — XLM:
    → [predicción clara y concreta si hay una, o "Sin predicción direccional registrada"]
    📏 Horizonte: [X] horas · Confianza: [ALTO/MEDIO/BAJO]
+   💡 Acción spot sugerida: [Tomar ganancias parciales / Acumular/DCA / Mantener / Cuidar capital]
+   📊 Estado señal vigente: [✅ ACERTÓ / ❌ SE EQUIVOCÓ / 🟡 PENDIENTE / ↩️ CERRADA NEUTRAL]
 
 ⬢ HBAR: [2 líneas]
 
-🎯 PREDICCIÓN DEL BOT — HBAR:
+🎯 OPINIÓN DEL BOT — HBAR:
    → [predicción clara y concreta si hay una, o "Sin predicción direccional registrada"]
    📏 Horizonte: [X] horas · Confianza: [ALTO/MEDIO/BAJO]
+   💡 Acción spot sugerida: [Tomar ganancias parciales / Acumular/DCA / Mantener / Cuidar capital]
+   📊 Estado señal vigente: [✅ ACERTÓ / ❌ SE EQUIVOCÓ / 🟡 PENDIENTE / ↩️ CERRADA NEUTRAL]
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 🏗️ FUNDAMENTAL & SENTIMIENTO

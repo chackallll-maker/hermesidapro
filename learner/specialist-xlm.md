@@ -44,17 +44,20 @@ Correlación con BTC: ~0.75 en régimen normal, puede bajar durante eventos espe
 | continuation_bajista_oversold | 0 / 1 | 0% |  |
 | news_negative_impact | 0 / 1 | 0% |  |
 | news_positive_impact | 1 / 2 | 50% |  |
-| resistance_breakout | 1 / 1 | 100% |  |
+| resistance_breakout | 1 / 2 | 50% |  |
+| rsi_overbought_reversal | 0 / 3 | 0% |  |
+| rsi_oversold_rebound | 1 / 8 | 12% |  |
 | support_retest | 0 / 1 | 0% |  |
 
 ## Estadísticas por Nivel de Confianza (inicial — por confirmar)
 | Nivel de Confianza | Aciertos / Total | Precisión |
 |--------------------|------------------|-----------|
-| MEDIO | 2 / 7 | 29% |
+| BAJO | 1 / 10 | 10% |
+| MEDIO | 2 / 9 | 22% |
 
 ## Régimen de Mercado Actual
 
-Última actualización: 2026-09-29 19:01 UTC
+Última actualización: 2026-10-30 19:27 UTC
 
 ---
 

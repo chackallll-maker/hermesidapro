@@ -1,1 +1,5 @@
-Orquestador: 61 runs, 45 alertas (73.8%), 15 near-misses (24.6%)
+# Metricas Orquestador
+- Total: 304
+- Alertas: 0 (0.0%)
+- Near-misses: 9 (3.0%)
+- Sin alerta: 304 (100.0%)

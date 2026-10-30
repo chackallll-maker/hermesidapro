@@ -1,1 +1,64 @@
-[SILENT]
+🌙 REPORTE HORARIO — Jueves 18 de octubre — 20:39 ARG
+
+━━━━━━━━━━━━━━━━━━━━━━
+🟡 SEMÁFORO — vistazo 5 seg
+━━━━━━━━━━━━━━━━━━━━━━
+
+🔷 XRP  $1.27  (-1.4% 24h)  → 🔴 ATENCIÓN — cerca de mínimos 24h  [↩️]
+   Soporte $1.27 → Resistencia $1.30
+
+🟦 XLM  $0.17  (-1.5% 24h)  → 🟡 NEUTRAL — sin alerta  [🟡]
+   Soporte $0.174 → Resistencia $0.182
+
+⬢ HBAR $0.085  (+2.8% 24h)  → 🟢 ALCISTE — por encima de MA7/MA24  [✅]
+   Soporte $0.084 → Resistencia $0.090
+
+📌 Resumen: XRP y XLM ligeramente bajas sin catalizador claro; HBAR verde técnico, pero rango estrecho. Ningún umbral de alerta (5%/10%) se dispara.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🤖 PROGRESO DEL BOT — XRP: ████░░░░░░ 20/50 → Nivel 1: Bot Novato
+   📊 Precisión histórica: 75% (4 señales resueltas)
+   📌 Última señal: ✅ Acierto → rsi_oversold_rebound ($1.4711) — 18 sep
+
+━━━━━━━━━━━━━━━━━━━━━━
+📈 DETALLE TÉCNICO
+━━━━━━━━━━━━━━━━━━━━━━
+• XRP: $1.27 · 1h: +0.2% · 24h: -1.4% · Vol 24h: $23.5M
+   RSI: 21.8 → sobrevendido (sin rebote confirmado)
+   Soporte: $1.27 / Resistencia: $1.30
+• XLM: $0.174 · 1h: +0.0% · 24h: -1.5% · Vol 24h: $570K
+   RSI: 27.1 → sobrevendido extremo
+   Soporte: $0.174 / Resistencia: $0.182
+• HBAR: $0.085 · 1h: -1.4% · 24h: +2.8% · Vol 24h: $734K
+   RSI: 44.1 → neutral
+   Soporte: $0.084 / Resistencia: $0.090
+
+🎯 OPINIÓN DEL BOT (predicción registrada):
+
+   → XRP: con RSI(14)=21.8 en zona de sobreventa extrema, se espera rebote técnico hacia $1.30-1.34 en próximas 12-24h; si cae bajo $1.26, objetivo baja a $1.20.
+   📏 Plazo: 18 horas · Confianza: BAJO
+   💡 Acción sugerida: Acumular/DCA — sin apalancamiento, solo si hay confirmación de rebote
+
+   → XLM: RSI(14)=27.1 en sobreventa extrema; el rebote anterior falló (ver señal 0759259a). Se requiere confirmación clara antes de acumular.
+   📏 Plazo: 12 horas · Confianza: BAJO
+   💡 Acción sugerida: Observando — mantener sin posición hasta confirmación
+
+   → HBAR: precio sostenido sobre MA7/MA24 tras +2.8% 24h, RSI 44 neutral. Tendencia alcista técnica leve, pero sin catalizador nuevo. 
+   📏 Plazo: 12 horas · Confianza: MEDIO
+   💡 Acción sugerida: Mantener — sin apalancamiento
+
+📊 SEGUIMIENTO DE LA PREDICCIÓN:
+   • Estado actual de la señal vigente: ↩️ CERRADA — señal XRP acbb133e (rsi_oversold_rebound) resuelta como ERROR
+   • Resultado última señal cerrada: ❌ Error — rsi_oversold_rebound (XRP)
+   • Precisión histórica del bot en esta cripto: 75% (3 aciertos / 1 error / 0 neutrales)
+
+━━━━━━━━━━━━━━━━━━━━━━
+💬 CONTEXTO
+━━━━━━━━━━━━━━━━━━━━━━
+• Sin noticias relevantes — movimiento técnico sin catalizador
+• Vigilar: XRP $1.26 (soporte crítico) y HBAR $0.082 (piso clave del rango)
+
+XRP sin alerta: RSI 21.8 extrema; rebote técnico observado, sin confirmación de volumen.
+XLM sin alerta: RSI 27.1 sobrevendido; sin rebote visible, cautela extrema.
+
+Próximo chequeo: 21:09 ARG

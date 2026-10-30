@@ -241,9 +241,9 @@ Al final del registro, agregá la referencia en la alerta. Esta línea es IMPORT
 ━━━━━━━━━━━━━━━━━━━━━━
 🔴 / 🟡 / 🟢 SEMÁFORO — vistazo 5 seg
 ━━━━━━━━━━━━━━━━━━━━━━
-🔷 XRP  $X.XX  (+X.X% 24h)  → 🟡 NEUTRAL — sin alerta
-🟦 XLM  $X.XX  (-X.X% 24h)  → 🟡 NEUTRAL — sin alerta
-⬢ HBAR $X.XX  (-X.X% 24h)  → 🔴 ATENCIÓN — rompe soporte $X.XX
+🔷 XRP  $X.XX  (+X.X% 24h)  → 🟡 NEUTRAL — sin alerta  [✅/❌/🟡/↩️]
+🟦 XLM  $X.XX  (-X.X% 24h)  → 🟡 NEUTRAL — sin alerta  [✅/❌/🟡/↩️]
+⬢ HBAR $X.XX  (-X.X% 24h)  → 🔴 ATENCIÓN — rompe soporte $X.XX  [✅/❌/🟡/↩️]
 
 📌 Resumen: [1 línea: qué pasó y qué vigilar]
 
@@ -255,10 +255,15 @@ Al final del registro, agregá la referencia en la alerta. Esta línea es IMPORT
 • Soporte: $X.XX / Resistencia: $X.XX
 • Señal: [qué indica el gráfico en 1 línea]
 
-🎯 PREDICCIÓN DEL BOT (registrada para seguimiento):
+🎯 OPINIÓN DEL BOT (predicción registrada):
    → [predicción clara y concreta: qué va a pasar, dirección, objetivo]
-   📏 Horizonte: [X] horas · Confianza: [ALTO/MEDIO/BAJO]
-   🎯 Nivel objetivo: $[X.XX] · Stop/loss sugerido: $[X.XX]
+   📏 Plazo: [X] horas · Confianza: [ALTO/MEDIO/BAJO]
+   💡 Acción sugerida: [Tomar ganancias parciales / Acumular/DCA / Mantener / Cuidar capital — sin apalancamiento]
+
+📊 SEGUIMIENTO DE LA PREDICCIÓN:
+   • Estado actual de la señal vigente: [✅ ACERTÓ / ❌ SE EQUIVOCÓ / 🟡 PENDIENTE / ↩️ CERRADA NEUTRAL]
+   • Resultado última señal cerrada: [✅ Acierto · ❌ Error · 🟡 Neutral] — [Tipo de señal]
+   • Precisión histórica del bot en esta cripto: [X]% ([aciertos]/[errores]/[neutrales])
 
 ━━━━━━━━━━━━━━━━━━━━━━
 💬 CONTEXTO

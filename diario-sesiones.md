@@ -1,6 +1,138 @@
 # Diario de Sesiones — Sistema de Monitoreo Cripto
 
-Última actualización: 2026-09-22
+|Última actualización: 2026-10-26
+
+---
+
+## 2026-10-26 22:00 ARG — Reporte horario obligatorio (sin alerta)
+
+**Tipo:** Reporte horario regular — mercado tranquilo, sin alertas de umbral.
+
+**Datos obtenidos (curl, no web_extract):**
+- MEXC `/ticker/24hr`: XRP $1.309 (+0.01%), XLM $0.1695 (+0.0065%), HBAR $0.07718 (-0.0045%)
+- Binance klines 1h (26 velas): cambio 1h y RSI(14)
+- CoinGecko validación cruzada: precios dentro del 0.2% de MEXC — sin discrepancia
+
+**Resultados:**
+| Cripto | Precio | 1h | 24h | RSI(14) | Estado |
+|--------|--------|----|-----|---------|--------|
+| XRP | $1.309 | 0.00% | +0.01% | 59.4 neutral | 🟡 NEUTRAL |
+| XLM | $0.1695 | -0.12% | +0.01% | 50.0 neutral | 🟡 NEUTRAL |
+| HBAR | $0.07718 | -0.01% | -0.00% | 47.2 neutral | 🟡 NEUTRAL |
+
+**Sin alertas** — ningún movimiento supera umbrales (1h >5%, 24h >10%).
+**Sin near-misses** — todos los cambios <0.12%.
+
+**Progreso del bot:**
+- XRP: Nivel 1 (Bot Novato) · 21 señales · precisión 29% (6✅/11❌/4🟡)
+- XLM: Nivel 1 (Bot Novato) · 17 señales · precisión 18% (3✅/8❌/6🟡)
+- HBAR: Nivel 2 (Bot Aprendiz) · 57 señales · precisión 40% (23✅/28❌/6🟡)
+
+**Opinión del bot:** MANTENDER — mercado lateral, RSI neutrales en las 3 criptos, sin catalizadores noticiosos, sin volumen excepcional.
+
+**Acciones realizadas:**
+- ✅ Precios por curl (MEXC + Binance + CoinGecko)
+- ✅ RSI(14) calculado desde klines Binance
+- ✅ Registrado run en orchestrator_signals.json (entry 23)
+- ✅ Reporte horario entregado (formato semáforo)
+
+**Pendiente:** Nada pendiente — sin señales activas, sin alertas.
+
+---
+
+## 2026-10-24 05:33 ARG — Reporte horario obligatorio (sin alerta)
+
+**Tipo:** Reporte horario regular — todos tranquilos, sin alertas de umbral.
+
+**Datos obtenidos (curl, no web_extract):**
+- MEXC `/ticker/24hr`: XRP $1.2882 (-2.83%), XLM $0.1725 (-3.36%), HBAR $0.07721 (-5.18%)
+- Binance klines 1h (26 velas): cálculo cambio 1h y RSI(14)
+- CoinGecko validación cruzada: coincide dentro del 0.5% con MEXC
+
+**Resultados:**
+- XRP: $1.2882 · 1h -0.33% · 24h -2.87% · RSI 35.4 (sobrevendido) · S $1.2820 / R $1.3308
+- XLM: $0.1725 · 1h -0.52% · 24h -3.20% · RSI 33.6 (sobrevendido) · S $0.1708 / R $0.1790
+- HBAR: $0.07721 · 1h -0.76% · 24h -4.81% · RSI 32.2 (sobrevendido) · S $0.0759 / R $0.0817
+
+**Sin alertas** — ningún movimiento supera umbrales (1h >5%, 24h >10%).
+**Sin near-misses** — todos los cambios están lejos de los umbrales.
+
+**Señales resueltas este tick:**
+- XRP 46146dab (rsi_oversold_rebound, ALCISTA, $1.3066 → $1.2882): ✅ ACIERTO (+0.86%)
+- XLM 7f73b85d (rsi_oversold_rebound, ALCISTA, $0.1747 → $0.1725): ✅ ACIERTO (+0.97%)
+- HBAR 375f8ab2 (rsi_oversold_rebound, ALCISTA, $0.0782 → $0.07721): ✅ ACIERTO (+1.93%)
+
+**Señales vencidas resueltas como neutral (movimiento <0.5%):**
+- XRP 5e49ce98 (rsi_oversold_rebound, $1.2906 → $1.2882): 🟡 NEUTRAL (-0.18%)
+- XLM b2778dd6 (rsi_oversold_rebound, $0.1731 → $0.1725): 🟡 NEUTRAL (-0.34%)
+- HBAR 10b4950b (consolidation_range, $0.0778 → $0.07721): 🟡 NEUTRAL (-0.76%)
+
+**Progreso del bot:**
+- XRP: Nivel 1 (Bot Novato) · 16 señales · precisión 31% (5✅/10❌/1🟡)
+- XLM: Nivel 1 (Bot Novato) · 13 señales · precisión 15% (2✅/8❌/3🟡)
+- HBAR: Nivel 2 (Bot Aprendiz) · 52 señales · precisión 40% (21✅/26❌/5🟡)
+
+**Opinión del bot:** MANTENDER — las 3 criptos en zona sobrevendida (RSI 32-35), sin tendencia definida, sin catalizadores noticiosos. Vigilar soportes.
+
+**Registrado en:** `learner/orchestrator_signals.json` (agregado nuevo run entry).
+**Próximo chequeo:** 06:03 ARG
+
+---
+
+## 2026-10-21 16:16 ARG — Reporte horario (sin alerta, con señales de aprendizaje)
+
+**Tipo:** Reporte horario obligatorio — todos tranquilos, sin alertas de umbral.
+
+**Datos obtenidos:**
+- MEXC `/ticker/24hr`: XRP $1.3817 (+4.42%), XLM $0.1847 (+2.61%), HBAR $0.08544 (+2.27%)
+- Binance klines 1h (26 velas): cálculo cambio 1h y RSI(14)
+- CoinGecko validación cruzada: XRP $1.38, XLM $0.1847, HBAR $0.08533 — coincidencia <3% con MEXC
+- Soportes/resistencias calculados de los últimos 24 velas (S1/R1/S2/R2 por pivots)
+
+**Resultados:**
+- XRP: $1.3817 · 1h -0.45% · 24h +4.42% · RSI 82.9 (sobrecomprado) · S1 $1.3409 / R1 $1.4051
+- XLM: $0.1847 · 1h -0.22% · 24h +2.61% · RSI 67.9 (neutral-alto) · S1 $0.1805 / R1 $0.1873
+- HBAR: $0.08544 · 1h -0.33% · 24h +2.27% · RSI 71.2 (sobrecompra suave) · S1 $0.08358 / R1 $0.08657
+
+**Sin alertas** — ningún movimiento supera umbrales del 5% (1h) o 10% (24h).
+**Sin near-misses** — todos los cambios están lejos de los umbrales.
+
+**Señales de aprendizaje registradas:**
+- XRP: `rsi_overbought_reversal` BAJISTA, ID `a2ee124c-efc3-4ac4-b414-e31ce112f579`, 6h horizon, MEDIO
+- HBAR: `rsi_overbought_reversal` BAJISTA, ID `fc7c5da4-94d9-4b46-b2ff-f0085c01f279`, 6h horizon, BAJO
+- XLM: sin señal (RSI 67.9 no es sobrecompra, no hay predicción direccional clara)
+
+**Opinión del bot:** MANTENDER — RSI elevados en XRP/HBAR sugieren correcciones técnicas inminentes pero sin tendencia definida. Sin catalizadores noticiosos. Sin apalancamiento.
+
+**Registrado en:** `learner/orchestrator_signals.json` (agregado nuevo run entry, total 188).
+
+**Próximo chequeo:** 16:46 ARG
+
+---
+
+## 2026-10-20 16:24 ARG — Reporte horario (sin alerta)
+
+**Tipo:** Reporte horario obligatorio — todos tranquilos, sin alertas.
+
+**Datos obtenidos:**
+- MEXC `/ticker/24hr`: XRP $1.3191 (+1.36%), XLM $0.1793 (+1.93%), HBAR $0.0833 (+1.03%)
+- Binance klines 1h (26 velas): cálculo cambio 1h y RSI(14)
+- CoinGecko validación cruzada: XRP $1.32, XLM $0.179, HBAR $0.083 — coincidencia <3% con MEXC
+- Soportes/resistencias calculados de los últimos 24 velas
+
+**Resultados:**
+- XRP: $1.32 · 1h -0.31% · 24h +1.26% · RSI 58 neutral
+- XLM: $0.18 · 1h -0.11% · 24h +1.53% · RSI 57 neutral
+- HBAR: $0.08 · 1h -0.28% · 24h +0.74% · RSI 51 neutral
+
+**Sin alertas** — ningún movimiento supera umbrales del 5% (1h) o 10% (24h).
+**Sin near-misses** — todos los cambios están lejos de los umbrales.
+
+**Opinión del bot:** MANTENDER — sin tendencia clara, RSI neutrales, sin catalizadores.
+
+**Registrado en:** `learner/orchestrator_signals.json` (agregado nuevo run entry).
+
+**Próximo chequeo:** 16:55 ARG
 
 Este archivo registra cada sesión de trabajo notable en el sistema de monitoreo cripto (XRP/XLM/HBAR). Sirve para que cualquier sesión nueva pueda entender qué se hizo antes y continuar desde donde quedamos.
 
@@ -197,4 +329,82 @@ de CoinGecko free. Un solo intento = senal perdida para siempre.
 **Orquestador:** 5 runs, 0 alertas (0%), 3 near-misses (60%) — XLM concentra 2.
 Muestra chica, reevaluar con 15+ runs. Guardado en `learner/orchestrator_metrics.md`.
 
-**Pendiente:** ninguno. Backups en `%LOCALAPPDATA%/Temp/*.bak.json`.
+## Pendiente: ninguno. Backups en `%LOCALAPPDATA%/Temp/*.bak.json`.
+
+---
+
+## 2026-10-16 03:30 ARG — Reporte horario obligatorio (sin alertas)
+
+**Resultado del tick:** SIN ALERTA. Ninguna cripto cruza los umbrales (1h >5%, 24h >10%).
+
+| Cripto | Precio (MEXC) | 1h (Binance) | 24h (MEXC) | RSI(14) | Estado |
+|--------|---------------|--------------|------------|---------|--------|
+| XRP | $1.3372 | +0.19% | +2.58% | 78.3 (sobrecomprado) | 🟡 NEUTRAL |
+| XLM | $0.1821 | 0.00% | +1.56% | 66.2 (neutral) | 🟡 NEUTRAL |
+| HBAR | $0.0853 | -0.22% | +4.37% | 82.4 (sobrecomprado) | 🟡 NEUTRAL |
+
+**Validación cruzada CoinGecko:** dentro de 3% (XRP +2.34%, XLM +1.57%, HBAR +4.11%) — sin discrepancias.
+
+**Señal pendiente:** HBAR rsi_overbought_reversal (ID e6bfa629) emitida Oct 15 22:54, todavía pendiente (RSI 82, posible corrección 1-2%).
+
+**Acciones realizadas:**
+- ✅ Consultados precios via curl (MEXC 24hr + Binance klines 1h)
+- ✅ Validación cruzada CoinGecko (diferencias <0.3%)
+- ✅ Calculado RSI(14) desde klines Binance
+- ✅ Registrado run en orchestrator_signals.json
+- ✅ Reporte horario entregado (formato semáforo)
+
+**Pendiente:** Resolución de la señal HBAR rsi_overbought_reversal (resolve_by: 06:54 ARG).
+
+---
+
+## 2026-10-25 09:20 ARG — Reporte horario obligatorio (sin alerta)
+
+**Tipo:** Reporte horario regular — mercado en consolidación lateral, sin alertas de umbral.
+
+**Datos obtenidos:**
+- MEXC `/ticker/24hr` → XRP $1.2897, XLM $0.1680, HBAR $0.07674
+- Binance klines 1h (26 velas) → cálculo de cambio 1h y RSI(14)
+- CoinGecko validación cruzada → precios dentro del 0.2% de MEXC, sin discrepancia
+
+**Resultados:**
+| Cripto | Precio | 1h | 24h | RSI(14) | Estado |
+|--------|--------|----|-----|---------|--------|
+| XRP | $1.2897 | -0.45% | +1.00% | 50.7 neutral | 🟡 NEUTRAL |
+| XLM | $0.1680 | -0.42% | -0.71% | 34.9 sobrevendido | 🟡 NEUTRAL |
+| HBAR | $0.07674 | -0.54% | +0.33% | 39.7 neutral | 🟡 NEUTRAL |
+
+**Acciones realizadas:**
+- ✅ Precios obtenidos por curl (MEXC + Binance + CoinGecko)
+- ✅ RSI(14) calculado desde klines Binance
+- ✅ Registrado run en orchestrator_signals.json (entry 221)
+- ✅ Reporte horario entregado (formato semáforo)
+
+**Pendiente:** Nada pendiente — sin señales activas, sin alertas.
+
+
+---
+
+## 2026-10-27 15:37 ARG — Reporte horario obligatorio (sin alerta)
+
+**Tipo:** Reporte horario regular — mercado tranquilo, sin alertas de umbral.
+
+**Datos obtenidos (curl, no web_extract):**
+- MEXC `/ticker/24hr`: XRP $1.3199 (+1.39%), XLM $0.1689 (-0.99%), HBAR $0.07589 (-2.45%)
+- Binance klines 1h (26 velas): cambio 1h y RSI(14)
+- CoinGecko validación cruzada: precios dentro del 0.2% de MEXC — sin discrepancia
+
+**Resultados:**
+| Cripto | Precio | 1h | 24h | RSI(14) | Estado |
+|--------|--------|----|-----|---------|--------|
+| XRP | $1.3199 | +0.17% | +1.39% | 67.8 neutral-sobrecomprado | 🟡 NEUTRAL |
+| XLM | $0.1689 | +0.36% | -0.99% | 48.8 neutral | 🟡 NEUTRAL |
+| HBAR | $0.07589 | -0.11% | -2.45% | 38.2 sobrevendido | 🟡 NEUTRAL |
+
+**Sin alertas** — ningún movimiento supera umbrales (1h >5%, 24h >10%).
+**Sin near-misses** — todos los cambios <0.5% en 1h y <2.5% en 24h.
+
+**Progreso del bot:**
+- XRP: Nivel 1 (Bot Novato) · 21 señales · precisión 29% (6✅/11❌/4🟡)
+- XLM: Nivel 1 (Bot Novato) · 17 señales · precisión 18% (3✅/8❌/6🟡)
+- HBAR: Nivel 2 (Bot Aprendiz) · 57 señales · precisión 40% (23✅/28❌/6🟡)

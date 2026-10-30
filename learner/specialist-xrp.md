@@ -42,16 +42,18 @@ En períodos sin noticias, XRP tiende a comportarse más técnicamente: soportes
 | consolidation_range | 1 / 1 | 100% |  |
 | oversold_bounce_ma7 | 1 / 1 | 100% |  |
 | resistance_breakout | 0 / 1 | 0% |  |
-| rsi_overbought_reversal | 0 / 1 | 0% |  |
+| rsi_overbought_reversal | 2 / 12 | 17% |  |
+| rsi_oversold_rebound | 2 / 9 | 22% |  |
 
 ## Estadísticas por Nivel de Confianza
 | Nivel de Confianza | Aciertos / Total | Precisión |
 |--------------------|------------------|-----------|
-| MEDIO | 2 / 4 | 50% |
+| BAJO | 1 / 13 | 8% |
+| MEDIO | 5 / 11 | 45% |
 
 ## Régimen de Mercado Actual
 
-Última actualización: 2026-09-29 19:01 UTC
+Última actualización: 2026-10-30 19:27 UTC
 
 ---
 

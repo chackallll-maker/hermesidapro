@@ -119,13 +119,21 @@ def calcular_xp_por_señal(sig: dict) -> tuple[int, str]:
         return xp, razon
 
     elif outcome == "error":
-        xp = XP_ERROR_BASE
+        # El castigo es proporcional al XP que se arriesgó
+        # Si la señal era de régimen difícil (donde el XP máximo es +20),
+        # el error cuesta lo mismo que el acierto hubiera dado
+        xp = XP_ERROR_BASE  # -5 base
 
         # Castigo por falsa confianza
         if confidence == "ALTO":
             xp = XP_ERROR_ALTO_CONFIANZA
 
-        # Castigo por error en régimen fácil
+        # Castigo proporcional al régimen: si el régimen era difícil
+        # (donde un acierto daría +20), el error debe costar -10 o -15
+        regimen_dificil = ["noticias_Ripple", "noticias_Stellar", "noticias_Hedera", "alta_volatilidad"]
+        if market_regime in regimen_dificil:
+            xp = XP_ERROR_BASE * 2  # -10 en régimen difícil
+
         regimen_facil = ["lateral"]
         if market_regime in regimen_facil:
             xp = XP_ERROR_REGIMEN_FACIL
@@ -133,6 +141,8 @@ def calcular_xp_por_señal(sig: dict) -> tuple[int, str]:
         razon = f"❌ Error"
         if confidence == "ALTO":
             razon += " (falsa confianza ALTO)"
+        if market_regime in regimen_dificil:
+            razon += f" (régimen difícil: {market_regime})"
         if market_regime in regimen_facil:
             razon += f" (régimen fácil: {market_regime})"
         razon += f" → {xp} XP"
@@ -249,11 +259,7 @@ def recalcular_progreso(crypto: str = None, update_file: bool = False) -> dict:
         xp_total += max(0, xp_cripto)
         niveles_totales += nivel_cripto["nivel"]
 
-    # Nivel global (promedio)
-    nivel_global_val = round(niveles_totales / 3)
-    nivel_global_dict = obtener_nivel(nivel_global_val * 100)  # Usamos el nivel 3-6 como referencia para el promedio
-
-    # Ajuste: el nivel global es el nivel que corresponde al XP promedio
+    # Nivel global (promedio de XP)
     xp_promedio = xp_total // 3 if len(cryptos) > 0 else 0
     nivel_global_dict = obtener_nivel(xp_promedio)
 
